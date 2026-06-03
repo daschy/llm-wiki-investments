@@ -10,4 +10,8 @@ Updated repository instructions to use raw sources, wiki pages, `wiki/index.md`,
 
 ## [2026-06-03] ingest | Real estate syndicate diligence Claude conversation
 
-Added [[Real Estate Syndicate Diligence Claude Conversation]] and [[Real Estate Syndicate Diligence Criteria]] from `raw/sources/real-estate-syndicate-diligence-claude-conversation.md`.
+Added [[Real Estate Syndicate Diligence Claude Conversation]] and [[Real Estate Syndicate Diligence Criteria]] from `sources/real-estate-syndicate-diligence-claude-conversation.md`.
+
+## [2026-06-03] maintenance | Rename raw source directory
+
+Updated repository guidance and wiki source references after moving source manifests and assets from `raw/` to `sources/`.

@@ -2,10 +2,10 @@
 
 ## Project Structure & Module Organization
 
-This repository is an investment research wiki, not an application codebase. Keep durable synthesis in `wiki/` and source material in `raw/`.
+This repository is an investment research wiki, not an application codebase. Keep durable synthesis in `wiki/` and source material in `sources/`.
 
-- `raw/`: immutable source material and source manifests. Add new sources here, but do not revise source content unless explicitly directed.
-- `raw/assets/`: local PDFs, screenshots, images, and other attachments safe to store in the repository.
+- `sources/`: immutable source material and source manifests. Add new sources here, but do not revise source content unless explicitly directed.
+- `sources/assets/`: local PDFs, screenshots, images, and other attachments safe to store in the repository.
 - `wiki/`: LLM-maintained knowledge base.
 - `wiki/index.md`: catalog of wiki pages. Read this first before research work and update it after material wiki edits.
 - `wiki/log.md`: append-only chronology of ingests, queries, lint passes, and major edits.
@@ -20,7 +20,7 @@ There is no build system yet. Run commands with `zsh`.
 
 - `ls -la`: inspect repository contents.
 - `sed -n '1,220p' wiki/index.md`: review the wiki catalog before answering research questions.
-- `rg "term" wiki raw`: search synthesized notes and source manifests.
+- `rg "term" wiki sources`: search synthesized notes and source manifests.
 - `git status`: check working-tree changes before editing or committing.
 - `git diff`: review document edits before sharing.
 
