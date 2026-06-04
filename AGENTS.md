@@ -4,13 +4,14 @@
 
 This repository is an investment research wiki, not an application codebase. Keep durable synthesis in `wiki/` and source material in `sources/`.
 
-- `sources/`: immutable source material and source manifests. Add new sources here, but do not revise source content unless explicitly directed.
+- `sources/`: immutable source material, source manifests, and source-derived Markdown/text transformations. Add new sources here, but do not revise source content unless explicitly directed.
 - `sources/<sponsor>/`: sponsor-specific PDFs, screenshots, spreadsheets, and manifests.
 - `sources/assets/`: shared attachments safe to store in the repository.
+- Keep source summaries, OCR, text extractions, and other transformed `.txt` or `.md` files close to the source assets they describe, in the same directory. Use a suffix such as `-summary.md` or `-extracted.md` to avoid overwriting source manifests.
 - `wiki/`: LLM-maintained knowledge base.
 - `wiki/index.md`: catalog of wiki pages; read this first and update it after material wiki edits.
 - `wiki/log.md`: append-only chronology of ingests, maintenance, queries, and major edits.
-- `wiki/entities/`, `wiki/offerings/`, `wiki/properties/`, `wiki/topics/`, `wiki/sources/`, `wiki/diligence/`: organized research pages.
+- `wiki/entities/`, `wiki/offerings/`, `wiki/properties/`, `wiki/topics/`, `wiki/diligence/`: organized research pages.
 
 If code, models, or datasets are added, use `tests/`, `models/`, and `data/`.
 

@@ -1,6 +1,6 @@
 # 10 Federal Storage Slide Screenshots - 2026-06-03
 
-Source manifest: `sources/2026-06-03-10-federal-storage-slide-screenshots.md`
+Source manifest: `sources/10fed/2026-06-03-10-federal-storage-slide-screenshots.md`
 
 Source type: sponsor presentation screenshots.
 

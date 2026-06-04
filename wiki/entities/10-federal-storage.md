@@ -2,9 +2,19 @@
 
 Aliases: 10 Federal, 10 Federal Storage.
 
-Source status: mostly unverified sponsor presentation claims from [[10 Federal Storage Slide Screenshots - 2026-06-03]].
+Source status: mostly sponsor-provided claims from [[10 Federal Storage Slide Screenshots - 2026-06-03]], [[10FSSAC5 Pitchbook - 2026-05-27]], and [[10 Federal Track Record Workbook - 2025-11]].
 
 10 Federal Storage is presented as a self-storage sponsor/operator focused on acquiring and operating self-storage facilities, especially in fragmented mom-and-pop segments. Its stated value creation framework is [[Self-Storage Fragmentation Thesis]], [[Self-Storage Automation Strategy]], and aggregation.
+
+## Sponsor Snapshot Claims
+
+- 11+ years operating remote properties.
+- 6+ million rentable square feet.
+- 130+ locations under management.
+- $1 billion+ in total transaction experience.
+- Properties in 17 states.
+- 60+ employees.
+- Leadership named in pitchbook: Brad Minsley, Cliff Minsley, Andrew Capranos, Trent Erickson, Brad Koch, Ian Levin, Brian Oakley, Chris Taylor, Steve Ostipow, and Jack Sparks.
 
 ## Offering Track Record Claims
 

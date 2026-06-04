@@ -2,7 +2,7 @@
 
 Related entity: [[10 Federal Storage]]
 
-Source status: unverified sponsor presentation claims from [[10 Federal Storage Slide Screenshots - 2026-06-03]].
+Source status: sponsor presentation claims from [[10 Federal Storage Slide Screenshots - 2026-06-03]] and [[10FSSAC5 Pitchbook - 2026-05-27]].
 
 ## Thesis
 

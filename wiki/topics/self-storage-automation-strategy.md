@@ -2,7 +2,7 @@
 
 Related entity: [[10 Federal Storage]]
 
-Source status: unverified sponsor presentation claims from [[10 Federal Storage Slide Screenshots - 2026-06-03]].
+Source status: sponsor-provided claims from [[10 Federal Storage Slide Screenshots - 2026-06-03]], [[10FSSAC5 Pitchbook - 2026-05-27]], and [[10FSSAC5 PPM - 2025-03-13]].
 
 ## Thesis
 
@@ -15,9 +15,14 @@ Source status: unverified sponsor presentation claims from [[10 Federal Storage 
 - Public-company benchmark shown: 1.9-2.2 employees per facility.
 - 10 Federal benchmark shown: 0.6 employees per facility.
 - Presentation footnote states the number consists of property management personnel only and may fluctuate over time.
+- PPM use-of-proceeds section says the company intends to buy inefficiently managed self-storage facilities and convert them from staffed to unmanned operations.
+- PPM says conversion of each investment property is estimated to take approximately 90 to 180 days.
+- PPM discloses reliance on call center employees and Zion Call Management, LLC to supplement facility operations.
+- PPM risk factors emphasize cyber, third-party software, payment-processing, customer data, technology adoption, and third-party data-source risks.
 
 ## Diligence Angles
 
 - Compare claimed staffing levels to service quality, collections, security incidents, delinquency, insurance claims, and local operating requirements.
 - Confirm whether automation savings are reflected in underwritten NOI or are upside assumptions.
 - Review technology capex, maintenance contracts, vendor concentration, and system failure procedures.
+- Review whether call center, software, and technology affiliate fees offset the apparent labor savings from reduced on-site staffing.

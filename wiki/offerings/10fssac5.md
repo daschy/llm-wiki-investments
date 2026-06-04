@@ -2,7 +2,7 @@
 
 Sponsor: [[10 Federal Storage]]
 
-Source status: unverified sponsor presentation claims from [[10 Federal Storage Slide Screenshots - 2026-06-03]].
+Source status: sponsor-provided materials, including [[10 Federal Storage Slide Screenshots - 2026-06-03]], [[10FSSAC5 Pitchbook - 2026-05-27]], [[10FSSAC5 PPM - 2025-03-13]], and [[10FSSAC5 LLC Agreements - 2025]].
 
 ## Offering Summary
 
@@ -15,6 +15,43 @@ Source status: unverified sponsor presentation claims from [[10 Federal Storage 
 - Target holding period: 5 years.
 - Next closing: July 2026.
 - Tax note: presentation states 10FSSAC5 will elect REIT tax status and investors will receive a single K-1 by March 15 each year, with no individual state K-1s.
+
+## Investor Terms And Structure
+
+Source status: sponsor legal documents; verify against the final subscription documents before relying on these terms.
+
+- Investor suitability: accredited investors; pitchbook also references qualified clients.
+- Minimum investment: $100,000, with company discretion to accept lower subscriptions.
+- Units: Class I Units are investor units and generally non-voting; Class S Units are voting units owned by the sponsor group.
+- Drawdowns: subscriptions may be drawn as determined by the manager on at least 10 business days' notice.
+- Offering period: PPM says the offering terminates on the second anniversary of the initial closing unless ended earlier, with a one-year sponsor extension option.
+- Capital raise end date: LLC agreement permits additional Class I members through the second anniversary of the initial closing, extendable to the third anniversary with Class S approval.
+- Unit issue price: generally $1,000 per Class I Unit; units issued after the second anniversary may be priced differently based on a broker opinion of value or MAI appraisal.
+- Reduced-price protection: if the company proposes issuing Class I Units below $1,000, current Class I Members have a preemptive right to buy a pro rata share.
+- Transferability: units are restricted and transfers require sponsor consent and compliance with securities-law limitations.
+
+## Fees And Sponsor Economics
+
+- Asset management fee: 1.5% annually, paid monthly; during the capital raise period it is based on committed capital, then based on unreturned capital until raised capital is returned.
+- Sponsor contribution: greater of $500,000 or 2.5% of total capital raised, which may be contributed in cash or in-kind property and may be contributed to 10FSSAC5, 10FSSAC5-B, or the operating partnership.
+- Acquisition fee: affiliates receive the greater of $50,000 or 2.0% of gross purchase price per acquired investment property.
+- Property management fee: monthly fee to a sponsor affiliate equal to the greater of $3,000 or 5.0% of gross revenues from each investment property.
+- Call center fee: paid to a sponsor affiliate at the greater of $10 per call, $1,250 per month per property, or prevailing market rate for similar services.
+- Refinancing / listing fee: manager receives 1.0% on the first $20 million of loan amounts placed, 0.75% on $20,000,001 to $30 million, and 0.50% above that.
+- Expansion developer fee: 5% of expansion building costs where added rental or leasable self-storage or parking square footage has aggregate project cost above $200,000, net of development or general contractor fees.
+- General contractor fee: if a sponsor affiliate builds an expansion, the company pays a 7.5% general contractor fee.
+- Project management fee: if the manager, sponsor, or affiliates manage a general contractor, the company pays the greater of $5,000 per month or 1.0% of hard costs.
+- Software and other affiliate fees: sponsor affiliates may provide proprietary software and additional services at prevailing market terms.
+- Fee-change risk: PPM says disclosed fees may be increased by the sponsor if aligned with current market prices, and the sponsor may introduce new market-rate fees required to support investment properties.
+
+## Distribution Waterfall
+
+- Cash flow distributions: pitchbook states quarterly cash flows are applied to accrued but unpaid preferred return, return of capital contributions, then the waterfall; the company will endeavor to pay 5.00% per annum current since inception, and distributions may be supplemented by principal equity at the sponsor's discretion.
+- Capital event distributions: applied to accrued but unpaid preferred return, return of capital contributions, then the waterfall.
+- Preferred return: 8.0% per annum, compounded annually, on unreturned Class I capital contributions.
+- Secondary return hurdle: LLC agreement defines a 15.0% per annum compounded annual return amount net of accrued preferred return.
+- Promote: Class S receives 30% after the 8.0% preferred return and 40% after a 15.0% IRR to limited partners on cash flows and capital events.
+- Final residual split: LLC agreement defines ultimate percentages of 60% to Class I Units and 40% to Class S Units.
 
 ## Acquired Properties To Date
 
@@ -46,6 +83,7 @@ Presentation note: as part of the Arkansas Storage Center acquisition on January
 
 - [[Dry Dock and Lock Storage]]
 - [[Economy Storage Portfolio]]
+- [[A Place for Stuff]]
 
 ## Pipeline
 

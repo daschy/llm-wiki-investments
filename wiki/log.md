@@ -15,3 +15,11 @@ Added [[Real Estate Syndicate Diligence Claude Conversation]] and [[Real Estate 
 ## [2026-06-03] maintenance | Rename raw source directory
 
 Updated repository guidance and wiki source references after moving source manifests and assets from `raw/` to `sources/`.
+
+## [2026-06-04] ingest | 10 Federal PDFs and track-record workbook
+
+Ingested sponsor-provided 10FSSAC5 pitchbook, PPM, LLC agreement PDFs, and 10 Federal track-record workbook from `sources/10fed/`. Added source summaries, expanded [[10FSSAC5]] terms, fees, waterfall, and diligence hooks, added [[A Place for Stuff]], and updated sponsor and automation notes.
+
+## [2026-06-04] maintenance | Move source summaries out of wiki
+
+Moved source-summary pages from `wiki/sources/` into the relevant `sources/` directories beside their underlying source assets, removed the empty `wiki/sources/` directory, and updated repository guidance plus `wiki/index.md` source links.
