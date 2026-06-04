@@ -2,7 +2,7 @@
 
 Related entity: [[10 Federal Storage]]
 
-Source status: sponsor presentation claims from [[10 Federal Storage Slide Screenshots - 2026-06-03]] and [[10FSSAC5 Pitchbook - 2026-05-27]].
+Source status: sponsor presentation claims from [[10 Federal Storage Slide Screenshots - 2026-06-03]] and [[10FSSAC5 Pitchbook - 2026-05-27]], with industry context from [[Self-Storage Industry Benchmarks]].
 
 ## Thesis
 
@@ -36,3 +36,9 @@ U-Haul top five growth states for 2025:
 - South Carolina
 
 The presentation claims the offering strategically targets four of U-Haul's top five growth states.
+
+## Industry Context
+
+Public self-storage benchmark data suggests that 2025-2026 stabilized industry performance is muted, not broadly high-growth. Nareit reported Q1 2026 same-store NOI growth of 0.6% for the self-storage REIT sector. Public Storage, Extra Space Storage, and CubeSmart each reported roughly flat to negative 2025 same-store NOI growth.
+
+Implication: the fragmentation thesis must produce returns through acquisition basis, operational improvement, expansion, lease-up, and aggregation rather than relying on broad market rent growth alone.

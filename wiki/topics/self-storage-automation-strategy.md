@@ -2,7 +2,7 @@
 
 Related entity: [[10 Federal Storage]]
 
-Source status: sponsor-provided claims from [[10 Federal Storage Slide Screenshots - 2026-06-03]], [[10FSSAC5 Pitchbook - 2026-05-27]], and [[10FSSAC5 PPM - 2025-03-13]].
+Source status: sponsor-provided claims from [[10 Federal Storage Slide Screenshots - 2026-06-03]], [[10FSSAC5 Pitchbook - 2026-05-27]], and [[10FSSAC5 PPM - 2025-03-13]], with industry context from [[Self-Storage Industry Benchmarks]].
 
 ## Thesis
 
@@ -19,6 +19,10 @@ Source status: sponsor-provided claims from [[10 Federal Storage Slide Screensho
 - PPM says conversion of each investment property is estimated to take approximately 90 to 180 days.
 - PPM discloses reliance on call center employees and Zion Call Management, LLC to supplement facility operations.
 - PPM risk factors emphasize cyber, third-party software, payment-processing, customer data, technology adoption, and third-party data-source risks.
+
+## Industry Context
+
+Public operator benchmarks show why automation matters to the underwriting. Public Storage reported 2025 same-store revenue roughly flat and same-store NOI down 0.5%, Extra Space Storage reported same-store NOI down 1.7%, and CubeSmart reported same-store NOI down 1.1%. In that operating backdrop, expense control and labor efficiency can be a meaningful source of relative outperformance if service quality, security, collections, and occupancy do not deteriorate.
 
 ## Diligence Angles
 

@@ -23,3 +23,11 @@ Ingested sponsor-provided 10FSSAC5 pitchbook, PPM, LLC agreement PDFs, and 10 Fe
 ## [2026-06-04] maintenance | Move source summaries out of wiki
 
 Moved source-summary pages from `wiki/sources/` into the relevant `sources/` directories beside their underlying source assets, removed the empty `wiki/sources/` directory, and updated repository guidance plus `wiki/index.md` source links.
+
+## [2026-06-04] ingest | Self-storage industry benchmarks
+
+Added `sources/self-storage-industry-benchmarks-2026-06-04-summary.md` with public REIT sector, Public Storage, Extra Space Storage, CubeSmart, and Marcus & Millichap / GlobeSt benchmark metrics for comparing 10 Federal Storage performance claims against the broader self-storage industry.
+
+## [2026-06-04] synthesis | Benchmark 10 Federal against industry
+
+Added [[Self-Storage Industry Benchmarks]] and updated [[10 Federal Storage]], [[Self-Storage Fragmentation Thesis]], and [[Self-Storage Automation Strategy]] with public REIT and industry comparison context.

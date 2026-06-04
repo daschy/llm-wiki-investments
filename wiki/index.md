@@ -20,6 +20,7 @@ This is the content-oriented catalog for the investment research wiki. Read this
 
 - [[Self-Storage Fragmentation Thesis]] - thesis that U.S. self-storage remains fragmented and offers consolidation upside.
 - [[Self-Storage Automation Strategy]] - 10 Federal Storage's claimed operating efficiency strategy using technology and reduced on-site staffing.
+- [[Self-Storage Industry Benchmarks]] - public REIT and industry benchmark metrics for comparing private self-storage sponsor performance claims.
 - [[Real Estate Syndicate Diligence Criteria]] - reusable checklist and scoring rubric for evaluating U.S. real estate syndicate offerings.
 
 ## Sources
@@ -30,6 +31,7 @@ This is the content-oriented catalog for the investment research wiki. Read this
 - [10FSSAC5 Pitchbook - 2026-05-27](../sources/10fed/10fssac5-pitchbook-2026-05-27-summary.md) - source summary from sponsor-provided 10FSSAC5 May 2026 pitchbook.
 - [10FSSAC5 PPM - 2025-03-13](../sources/10fed/10fssac5-ppm-2025-03-13-summary.md) - source summary from 10FSSAC5 private placement memorandum.
 - [Real Estate Syndicate Diligence Claude Conversation](../sources/real-estate-syndicate-diligence-claude-conversation-summary.md) - source summary from extracted Claude conversation notes on real estate syndicate diligence.
+- [Self-Storage Industry Benchmarks - 2026-06-04](../sources/self-storage-industry-benchmarks-2026-06-04-summary.md) - public REIT and industry metrics for benchmarking sponsor self-storage performance claims.
 
 ## Diligence
 
