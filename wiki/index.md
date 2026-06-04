@@ -35,6 +35,7 @@ This is the content-oriented catalog for the investment research wiki. Read this
 
 ## Diligence
 
+- [[10 Federal Storage Diligence Memo - 2026-06-04]] - investment diligence synthesis and gating questions for 10 Federal Storage / 10FSSAC5.
 - [[10 Federal Storage Diligence Questions]] - open verification questions, risks, and follow-up requests.
 
 ## Retrieval Notes

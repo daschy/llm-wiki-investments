@@ -31,3 +31,7 @@ Added `sources/self-storage-industry-benchmarks-2026-06-04-summary.md` with publ
 ## [2026-06-04] synthesis | Benchmark 10 Federal against industry
 
 Added [[Self-Storage Industry Benchmarks]] and updated [[10 Federal Storage]], [[Self-Storage Fragmentation Thesis]], and [[Self-Storage Automation Strategy]] with public REIT and industry comparison context.
+
+## [2026-06-04] diligence | 10 Federal Storage
+
+Added [[10 Federal Storage Diligence Memo - 2026-06-04]] with an investment view, rubric score, sponsor/track-record issues, 10FSSAC5 raise reconciliation concerns, fee/conflict risks, automation operating-risk signals, public-source checks, and sponsor follow-up questions.
