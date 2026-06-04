@@ -31,6 +31,7 @@ This is the content-oriented catalog for the investment research wiki. Read this
 - [10FSSAC5 Pitchbook - 2026-05-27](../sources/10fed/10fssac5-pitchbook-2026-05-27-summary.md) - source summary from sponsor-provided 10FSSAC5 May 2026 pitchbook.
 - [10FSSAC5 PPM - 2025-03-13](../sources/10fed/10fssac5-ppm-2025-03-13-summary.md) - source summary from 10FSSAC5 private placement memorandum.
 - [Real Estate Syndicate Diligence Claude Conversation](../sources/real-estate-syndicate-diligence-claude-conversation-summary.md) - source summary from extracted Claude conversation notes on real estate syndicate diligence.
+- [Self-Storage Industry Benchmarks Since 2020 - 2026-06-04](../sources/self-storage-industry-benchmarks-since-2020-summary.md) - annual public self-storage REIT benchmark table from 2020 through 2026 YTD.
 - [Self-Storage Industry Benchmarks - 2026-06-04](../sources/self-storage-industry-benchmarks-2026-06-04-summary.md) - public REIT and industry metrics for benchmarking sponsor self-storage performance claims.
 
 ## Diligence

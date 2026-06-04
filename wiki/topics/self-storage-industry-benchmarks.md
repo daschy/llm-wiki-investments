@@ -2,7 +2,7 @@
 
 Related pages: [[10 Federal Storage]], [[10FSSAC5]], [[Self-Storage Fragmentation Thesis]], [[Self-Storage Automation Strategy]]
 
-Source status: public REIT and industry metrics summarized from [Self-Storage Industry Benchmarks - 2026-06-04](../../sources/self-storage-industry-benchmarks-2026-06-04-summary.md). Public REIT data is not directly comparable to private value-add fund IRRs because public REITs are large stabilized portfolios with public equity pricing, different leverage, liquidity, and reporting conventions.
+Source status: public REIT and industry metrics summarized from [Self-Storage Industry Benchmarks - 2026-06-04](../../sources/self-storage-industry-benchmarks-2026-06-04-summary.md) and [Self-Storage Industry Benchmarks Since 2020 - 2026-06-04](../../sources/self-storage-industry-benchmarks-since-2020-summary.md). Public REIT data is not directly comparable to private value-add fund IRRs because public REITs are large stabilized portfolios with public equity pricing, different leverage, liquidity, and reporting conventions.
 
 ## Benchmark Snapshot
 
@@ -20,6 +20,20 @@ Public self-storage industry data for 2025-2026 suggests stable but muted fundam
 | Public Storage | roughly flat | -0.5% | 92.0% weighted-average square-foot occupancy |
 | Extra Space Storage | +0.1% | -1.7% | 92.6% ending same-store occupancy; 93.7% average full-year same-store occupancy |
 | CubeSmart | -0.5% | -1.1% | 89.7% period-average same-store occupancy |
+
+## Public Storage Same-Store Trend Since 2020
+
+Public Storage is a useful directional benchmark because it reports a recurring large-scale same-store series, but same-store pool definitions change over time and should not be treated as a perfect industry index.
+
+| Year | Same-Store Revenue Growth | Same-Store NOI Growth | Avg. Same-Store Occupancy | Read |
+| --- | ---: | ---: | ---: | --- |
+| 2020 | -0.8% | -2.2% | 94.5% | COVID year; strong physical occupancy but soft revenue and NOI. |
+| 2021 | +10.5% | +15.4% | 96.3% | Demand/pricing boom year. |
+| 2022 | +15.2% | +18.5% | 94.8% | Peak same-store pricing and NOI growth, with occupancy already normalizing. |
+| 2023 | +4.7% | +4.7% | 93.3% | Post-boom normalization. |
+| 2024 | -0.6% | -1.7% | 92.4% | Softer demand and lower move-in rental rates. |
+| 2025 | 0.0% | -0.5% | 92.0% | Stabilizing but muted fundamentals. |
+| 2026 YTD | Not available | +0.6% sector same-store NOI in Q1 2026 | Not available | Partial-year Nareit sector context only. |
 
 ## Implications For Private Sponsor Underwriting
 

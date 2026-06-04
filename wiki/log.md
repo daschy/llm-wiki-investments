@@ -28,6 +28,14 @@ Moved source-summary pages from `wiki/sources/` into the relevant `sources/` dir
 
 Added `sources/self-storage-industry-benchmarks-2026-06-04-summary.md` with public REIT sector, Public Storage, Extra Space Storage, CubeSmart, and Marcus & Millichap / GlobeSt benchmark metrics for comparing 10 Federal Storage performance claims against the broader self-storage industry.
 
+## [2026-06-04] ingest | Self-storage annual benchmarks since 2020
+
+Added `sources/self-storage-industry-benchmarks-since-2020-summary.md` with a year-by-year Public Storage same-store revenue, NOI, and occupancy benchmark from 2020 through 2025, plus partial Nareit Q1 2026 sector context.
+
+## [2026-06-04] synthesis | Add annual benchmark trend
+
+Updated [[Self-Storage Industry Benchmarks]] with the year-by-year Public Storage same-store trend since 2020 and linked the new annual benchmark source summary.
+
 ## [2026-06-04] synthesis | Benchmark 10 Federal against industry
 
 Added [[Self-Storage Industry Benchmarks]] and updated [[10 Federal Storage]], [[Self-Storage Fragmentation Thesis]], and [[Self-Storage Automation Strategy]] with public REIT and industry comparison context.
