@@ -31,7 +31,7 @@ Document future project commands here, such as `npm test`, `make build`, or `pyt
 
 ## Repository Hooks
 
-Tracked Git hooks live in `.githooks/` and must be run with `zsh`. The current `pre-commit` hook detects newly staged files under `sources/`, runs `codex exec` to review the ingest, and blocks that commit attempt so any Codex-generated summaries or wiki updates can be reviewed and staged deliberately.
+Tracked Git hooks live in `.githooks/` and must be run with `zsh`. The `post-commit` hook detects newly committed files under `sources/`, runs `codex exec` to review the ingest, and leaves any Codex-generated summaries or wiki updates unstaged for a deliberate follow-up commit.
 
 If the hook is not firing, run `git config core.hooksPath .githooks` once in this repository.
 
@@ -51,7 +51,7 @@ If scripts are introduced, place tests in `tests/` and name them after behavior,
 
 Use concise conventional-style commit messages. Existing examples include `docs: initialize investment research wiki` and `docs: rename source directory`.
 
-When adding new files under `sources/`, expect the first commit attempt to run the source-ingest hook and stop. Review the resulting working tree, stage the intended source summaries and wiki updates, then commit again.
+When adding new files under `sources/`, expect the commit to complete first and then run the source-ingest hook. Review the resulting working tree, stage any intended source summaries and wiki updates, then make a follow-up commit if the hook produced changes.
 
 Pull requests should include purpose, changed files, assumptions, and source links. Include screenshots or exported previews for spreadsheet or visual changes.
 
