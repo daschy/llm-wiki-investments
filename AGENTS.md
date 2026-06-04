@@ -25,8 +25,15 @@ There is no build system yet. Run commands with `zsh`.
 - `git status`: check working-tree changes before editing or committing.
 - `git diff`: review document edits before sharing.
 - `git log --oneline -5`: check recent commit wording and repository direction.
+- `git config core.hooksPath .githooks`: enable the tracked repository hooks if they are not already active.
 
 Document future project commands here, such as `npm test`, `make build`, or `python -m pytest`.
+
+## Repository Hooks
+
+Tracked Git hooks live in `.githooks/` and must be run with `zsh`. The current `pre-commit` hook detects newly staged files under `sources/`, runs `codex exec` to review the ingest, and blocks that commit attempt so any Codex-generated summaries or wiki updates can be reviewed and staged deliberately.
+
+If the hook is not firing, run `git config core.hooksPath .githooks` once in this repository.
 
 ## Coding Style & Naming Conventions
 
@@ -43,6 +50,8 @@ If scripts are introduced, place tests in `tests/` and name them after behavior,
 ## Commit & Pull Request Guidelines
 
 Use concise conventional-style commit messages. Existing examples include `docs: initialize investment research wiki` and `docs: rename source directory`.
+
+When adding new files under `sources/`, expect the first commit attempt to run the source-ingest hook and stop. Review the resulting working tree, stage the intended source summaries and wiki updates, then commit again.
 
 Pull requests should include purpose, changed files, assumptions, and source links. Include screenshots or exported previews for spreadsheet or visual changes.
 
