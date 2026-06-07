@@ -1,6 +1,6 @@
 # Real Estate Syndicate Diligence Criteria
 
-Source: [[Real Estate Syndicate Diligence Claude Conversation]]
+Source: [Real Estate Syndicate Diligence Claude Conversation](../../sources/real-estate-syndicate-diligence-claude-conversation-summary.md)
 
 Reliability: framework derived from unverified LLM-generated notes. Use as a checklist, not as independently verified advice.
 

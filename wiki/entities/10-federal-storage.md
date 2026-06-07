@@ -2,7 +2,7 @@
 
 Aliases: 10 Federal, 10 Federal Storage.
 
-Source status: mostly sponsor-provided claims from [[10 Federal Storage Slide Screenshots - 2026-06-03]], [[10FSSAC5 Pitchbook - 2026-05-27]], and [[10 Federal Track Record Workbook - 2025-11]], benchmarked against [[Self-Storage Industry Benchmarks]].
+Source status: mostly sponsor-provided claims from [10 Federal Storage Slide Screenshots - 2026-06-03](../../sources/10fed/10-federal-storage-slide-screenshots-2026-06-03-summary.md), [10FSSAC5 Pitchbook - 2026-05-27](../../sources/10fed/10fssac5-pitchbook-2026-05-27-summary.md), and [10 Federal Track Record Workbook - 2025-11](../../sources/10fed/10-federal-track-record-workbook-2025-11-summary.md), benchmarked against [[Self-Storage Industry Benchmarks]].
 
 10 Federal Storage is presented as a self-storage sponsor/operator focused on acquiring and operating self-storage facilities, especially in fragmented mom-and-pop segments. Its stated value creation framework is [[Self-Storage Fragmentation Thesis]], [[Self-Storage Automation Strategy]], and aggregation.
 

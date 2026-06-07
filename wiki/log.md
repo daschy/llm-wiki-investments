@@ -43,3 +43,7 @@ Added [[Self-Storage Industry Benchmarks]] and updated [[10 Federal Storage]], [
 ## [2026-06-04] diligence | 10 Federal Storage
 
 Added [[10 Federal Storage Diligence Memo - 2026-06-04]] with an investment view, rubric score, sponsor/track-record issues, 10FSSAC5 raise reconciliation concerns, fee/conflict risks, automation operating-risk signals, public-source checks, and sponsor follow-up questions.
+
+## [2026-06-07] maintenance | Repair source-summary links
+
+Replaced obsolete wiki links to source-summary pages moved under `sources/` with direct relative Markdown links across the current entity, offering, property, and topic pages.
