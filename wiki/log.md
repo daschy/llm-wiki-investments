@@ -47,3 +47,7 @@ Added [[10 Federal Storage Diligence Memo - 2026-06-04]] with an investment view
 ## [2026-06-07] maintenance | Repair source-summary links
 
 Replaced obsolete wiki links to source-summary pages moved under `sources/` with direct relative Markdown links across the current entity, offering, property, and topic pages.
+
+## [2026-06-07] ingest | Private market platform requirements chat
+
+Added `sources/private-market-platform-requirements-chat-2026-06-07.md`, an LLM-assisted research conversation source artifact covering accredited-investor requirements and onboarding considerations for Nasdaq Private Market, Forge, EquityZen, and Hiive.
