@@ -55,3 +55,7 @@ Added `sources/private-market-platform-requirements-chat-2026-06-07.md`, an LLM-
 ## [2026-06-07] synthesis | Private market platform entity onboarding
 
 Added a beside-source summary and [[Private Market Platform Entity Onboarding]]. Captured the LLC/Dutch BV ownership structure, common platform and deal-level onboarding gates, expected documentation, and the unresolved need to confirm whether the direct BV owners must independently qualify as accredited investors or may be looked through to their ultimate owners.
+
+## [2026-06-07] review | Private market platform onboarding synthesis
+
+Reviewed the committed source summary against the underlying conversation and current primary guidance. Updated the summary and [[Private Market Platform Entity Onboarding]] to reflect the SEC's January 23, 2026 Rule 501(a)(8) interpretation permitting look-through to natural-person owners, while preserving platform and transaction acceptance as open diligence items. Corrected W-9/W-8 wording to describe tax forms as furnished by the relevant payee, account holder, beneficial owner, or intermediary rather than issued by the platform.
