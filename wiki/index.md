@@ -18,6 +18,7 @@ This is the content-oriented catalog for the investment research wiki. Read this
 
 ## Topics
 
+- [[Private Market Platform Entity Onboarding]] - eligibility, documentation, and diligence framework for a U.S. LLC owned through foreign entities seeking private-company secondary investments.
 - [[Self-Storage Fragmentation Thesis]] - thesis that U.S. self-storage remains fragmented and offers consolidation upside.
 - [[Self-Storage Automation Strategy]] - 10 Federal Storage's claimed operating efficiency strategy using technology and reduced on-site staffing.
 - [[Self-Storage Industry Benchmarks]] - public REIT and industry benchmark metrics for comparing private self-storage sponsor performance claims.
@@ -31,7 +32,7 @@ This is the content-oriented catalog for the investment research wiki. Read this
 - [10FSSAC5 Pitchbook - 2026-05-27](../sources/10fed/10fssac5-pitchbook-2026-05-27-summary.md) - source summary from sponsor-provided 10FSSAC5 May 2026 pitchbook.
 - [10FSSAC5 PPM - 2025-03-13](../sources/10fed/10fssac5-ppm-2025-03-13-summary.md) - source summary from 10FSSAC5 private placement memorandum.
 - [Real Estate Syndicate Diligence Claude Conversation](../sources/real-estate-syndicate-diligence-claude-conversation-summary.md) - source summary from extracted Claude conversation notes on real estate syndicate diligence.
-- [Private Market Platform Requirements Chat - 2026-06-07](../sources/private-market-platform-requirements-chat-2026-06-07.md) - source artifact from LLM-assisted research conversation on accredited-investor and onboarding requirements for Nasdaq Private Market, Forge, EquityZen, and Hiive.
+- [Private Market Platform Requirements Chat - 2026-06-07](../sources/private-market-platform-requirements-chat-2026-06-07-summary.md) - source summary of an LLM-assisted conversation on accredited-investor and onboarding requirements for Nasdaq Private Market, Forge, EquityZen, and Hiive.
 - [Self-Storage Industry Benchmarks Since 2020 - 2026-06-04](../sources/self-storage-industry-benchmarks-since-2020-summary.md) - annual public self-storage REIT benchmark table from 2020 through 2026 YTD.
 - [Self-Storage Industry Benchmarks - 2026-06-04](../sources/self-storage-industry-benchmarks-2026-06-04-summary.md) - public REIT and industry metrics for benchmarking sponsor self-storage performance claims.
 
@@ -45,3 +46,5 @@ This is the content-oriented catalog for the investment research wiki. Read this
 For 10 Federal Storage work, start with [[10FSSAC5]], then open [[10 Federal Storage]], [[10 Federal Storage Diligence Questions]], and the relevant source, property, or topic pages.
 
 For general real estate syndicate screening, start with [[Real Estate Syndicate Diligence Criteria]].
+
+For private-company secondary platform onboarding through a cross-border entity structure, start with [[Private Market Platform Entity Onboarding]].

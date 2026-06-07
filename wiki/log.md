@@ -51,3 +51,7 @@ Replaced obsolete wiki links to source-summary pages moved under `sources/` with
 ## [2026-06-07] ingest | Private market platform requirements chat
 
 Added `sources/private-market-platform-requirements-chat-2026-06-07.md`, an LLM-assisted research conversation source artifact covering accredited-investor requirements and onboarding considerations for Nasdaq Private Market, Forge, EquityZen, and Hiive.
+
+## [2026-06-07] synthesis | Private market platform entity onboarding
+
+Added a beside-source summary and [[Private Market Platform Entity Onboarding]]. Captured the LLC/Dutch BV ownership structure, common platform and deal-level onboarding gates, expected documentation, and the unresolved need to confirm whether the direct BV owners must independently qualify as accredited investors or may be looked through to their ultimate owners.
