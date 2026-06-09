@@ -2,19 +2,22 @@
 
 This is the content-oriented catalog for the investment research wiki. Read this file first before answering research questions, then open the relevant linked pages.
 
-Last updated: 2026-06-09 | Maintained content pages: 16
+Last updated: 2026-06-09 | Maintained content pages: 19
 
 ## Entities
 
 - [[10 Federal Storage]] - self-storage sponsor/operator using data science, automation, and aggregation strategy claims.
 - [[BAM Capital]] - multifamily sponsor with a growth-and-income fund and an incompletely captured affiliated preferred-equity fund.
 - [[GSP REI]] - residential sponsor claiming vertically integrated acquisition, renovation, property management, and asset management.
+- [[PPR Capital Management]] - sponsor presenting a housing-focused foundation fund and a qualified-purchaser opportunity fund with conflicting naming cues.
 
 ## Offerings
 
 - [[10FSSAC5]] - current 10 Federal Storage self-storage offering with sponsor pitchbook/legal terms, acquired assets, pipeline, and diligence questions.
 - [[BAM Multifamily Growth & Income Fund V]] - Class A Midwest multifamily offering marketed with a $200k minimum and 15%-20% target IRR.
 - [[GSP REI Income Fund]] - 506(c) single-family strategy marketed with 8%-12% fixed returns across 12-36-month terms.
+- [[PPR Capital Foundation Fund]] - housing-focused accredited-investor fund with alternative 11% compounding and 9% monthly preferred-return presentations.
+- [[PPR Capital Opportunity Fund II]] - qualified-purchaser fund with a 16%+ target return, projected 60-month horizon, and accelerated-depreciation claim.
 
 ## Properties
 
@@ -40,6 +43,9 @@ Last updated: 2026-06-09 | Maintained content pages: 16
 - [10FSSAC5 Tax Structure Conversation - 2026-06-08](../sources/10fed/10fssac5-tax-structure-conversation-2026-06-08-summary.md) - LLM-assisted interpretation of K-1 reporting, REIT structure, depreciation, distributions, return targets, and C-corporation investor considerations; professional verification required.
 - [BAM Capital Real Estate Investment Opportunities](../sources/bamcapital.com/real-estate-investment-opportunities-summary.md) - incomplete sponsor webpage summary covering Fund V targets and a partial Preferred Credit Fund description.
 - [GSP REI Income Fund Public Webpage](../sources/gsprei.com/single-family-real-estate-income-fund--passive-monthly-cash-flow-summary.md) - sponsor webpage summary of fixed-return claims, terms, strategy, and missing structural evidence.
+- [PPR Capital Current Offerings](../sources/pprcapitalmgmt.com/current-offerings-summary.md) - sponsor webpage summary of Foundation Fund and Opportunity Fund II marketing claims, naming ambiguity, and missing legal documentation.
+- [PPR Capital Foundation Fund](../sources/pprcapitalmgmt.com/ppr-capital-foundation-fund-summary.md) - sponsor webpage summary of the foundation fund's diversified residential strategy, monthly distributions, and asset-class mix.
+- [PPR Capital Opportunity Fund II](../sources/pprcapitalmgmt.com/invest-in-the-opportunity-fund-summary.md) - sponsor webpage summary of the car-wash development strategy, return claims, and tax assertions.
 - [Private Market Platform Requirements Chat - 2026-06-07](../sources/private-market-platform-requirements-chat-2026-06-07-summary.md) - source summary of an LLM-assisted conversation on accredited-investor and onboarding requirements for Nasdaq Private Market, Forge, EquityZen, and Hiive.
 - [Real Estate Syndicate Diligence Claude Conversation](../sources/real-estate-syndicate-diligence-claude-conversation-summary.md) - source summary from extracted Claude conversation notes on real estate syndicate diligence.
 - [Self-Storage Industry Benchmarks Since 2020 - 2026-06-04](../sources/self-storage-industry-benchmarks-since-2020-summary.md) - annual public self-storage REIT benchmark table from 2020 through 2026 YTD.
@@ -57,6 +63,8 @@ For 10 Federal Storage work, start with [[10FSSAC5]], then open [[10 Federal Sto
 For general real estate syndicate screening, start with [[Real Estate Syndicate Diligence Criteria]].
 
 For the newly captured multifamily and single-family income opportunities, start with [[BAM Multifamily Growth & Income Fund V]] or [[GSP REI Income Fund]], then review the corresponding sponsor page and source summary.
+
+For PPR Capital work, start with [[PPR Capital Management]], then review [[PPR Capital Foundation Fund]], [[PPR Capital Opportunity Fund II]], and the linked source summaries.
 
 For private-company secondary platform onboarding through a cross-border entity structure, start with [[Private Market Platform Entity Onboarding]].
 

@@ -99,3 +99,11 @@ Reviewed the staged BAM Capital current-offerings page and GSP REI Income Fund p
 ## [2026-06-09] review | BAM Capital and GSP REI synthesis precision
 
 Reviewed the staged source summaries and durable pages against both captured webpages. Clarified that capture metadata does not establish offering freshness, treated GSP's fixed return as a sponsor-stated rate promise whose enforceability and priority require legal documents, and added open verification of the compounding method. No new page or index entry was warranted, and the immutable webpage captures were not modified.
+
+## [2026-06-09] review | PPR Capital current offerings
+
+Reviewed the staged `sources/pprcapitalmgmt.com/current-offerings.md` capture plus the adjacent untracked `sources/pprcapitalmgmt.com/ppr-capital-foundation-fund.md` and `sources/pprcapitalmgmt.com/invest-in-the-opportunity-fund.md` captures. Added the adjacent source summaries `sources/pprcapitalmgmt.com/current-offerings-summary.md`, `sources/pprcapitalmgmt.com/ppr-capital-foundation-fund-summary.md`, and `sources/pprcapitalmgmt.com/invest-in-the-opportunity-fund-summary.md`; the durable pages `wiki/entities/ppr-capital-management.md`, `wiki/offerings/ppr-capital-foundation-fund.md`, and `wiki/offerings/ppr-capital-opportunity-fund-ii.md`; and updated `wiki/index.md` to index the new pages and source summaries. Preserved the sponsor's naming and investor-eligibility ambiguities as unverified.
+
+## [2026-06-09] maintenance | Normalize PPR Foundation capture whitespace
+
+Cleaned trailing whitespace from `sources/pprcapitalmgmt.com/ppr-capital-foundation-fund.md` in the working tree. The staged copy was left unchanged per instruction, so `git diff --cached --check` still reflects the earlier capture state.
