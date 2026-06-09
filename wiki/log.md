@@ -59,3 +59,7 @@ Added a beside-source summary and [[Private Market Platform Entity Onboarding]].
 ## [2026-06-07] review | Private market platform onboarding synthesis
 
 Reviewed the committed source summary against the underlying conversation and current primary guidance. Updated the summary and [[Private Market Platform Entity Onboarding]] to reflect the SEC's January 23, 2026 Rule 501(a)(8) interpretation permitting look-through to natural-person owners, while preserving platform and transaction acceptance as open diligence items. Corrected W-9/W-8 wording to describe tax forms as furnished by the relevant payee, account holder, beneficial owner, or intermediary rather than issued by the platform.
+
+## [2026-06-08] ingest | 10FSSAC5 tax structure conversation
+
+Added `sources/10fed/10fssac5-tax-structure-conversation-2026-06-08.md` and a beside-source summary covering K-1 reporting, the subsidiary REIT structure, depreciation limitations, quarterly distribution intent, preferred return accrual, the 15% target IRR waterfall, and considerations for an investor LLC taxed as a C corporation.
