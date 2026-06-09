@@ -17,7 +17,14 @@ Source status: generated from sponsor materials and investment diligence judgmen
 - Reconcile presentation claim that 10FSSAC5 has approximately $100 million or more in commitments with the $37 million of closed acquisitions and $111.15 million pipeline.
 - Confirm debt terms, leverage limits, hedging, maturity schedule, and interest-rate sensitivity.
 - Request full property-level financials for 10FSSAC3, 10FSSAC4, 10FOppCo1, and 10FSSAC5.
-- Clarify REIT tax election mechanics and why the presentation references a single K-1 rather than Form 1099-DIV or other REIT investor tax reporting.
+- Clarify the partnership-over-REIT structure and why investors receive a K-1 rather than direct REIT shareholder reporting.
+- Obtain written confirmation of expected K-1 delivery timing and reconcile the pitchbook's March 15 claim with legal-document language allowing later delivery.
+- Confirm whether "no individual state K-1s" means no state schedules only or also no investor state returns, withholding, composite returns, or other filing obligations.
+- Request illustrative annual K-1s for a U.S. individual, tax-exempt account, non-U.S. investor, and LLC taxed as a C corporation.
+- Identify every asset expected to be held outside the REIT and quantify the resulting depreciation, passive-loss, UBTI, ECI/FIRPTA, withholding, and state-filing consequences by investor type.
+- Provide a projected taxable-income-versus-cash-distribution schedule and explain when investors could receive taxable allocations without sufficient cash to pay the tax.
+- Confirm whether cost-segregation studies, bonus depreciation, or other accelerated-depreciation methods will be used and whether any resulting deductions can reach Class I investors.
+- Obtain sponsor tax-counsel analysis for Duo Prato Capital's intended investor structure, including corporate tax treatment, REIT-dividend treatment, and tax on later shareholder distributions.
 - Confirm which LLC agreement version applies to the investor, especially the retail-investor agreement file versus the main LLC agreement file.
 - Ask for all PPM supplements, side letters, subscription-book terms, and any updated fee schedule after March-April 2025.
 - Model the economics of acquisition, asset-management, property-management, call-center, software, development, general-contractor, project-management, refinancing, guaranty, and other affiliate fees.

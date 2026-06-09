@@ -2,7 +2,7 @@
 
 Sponsor: [[10 Federal Storage]]
 
-Source status: sponsor-provided materials, including [10 Federal Storage Slide Screenshots - 2026-06-03](../../sources/10fed/10-federal-storage-slide-screenshots-2026-06-03-summary.md), [10FSSAC5 Pitchbook - 2026-05-27](../../sources/10fed/10fssac5-pitchbook-2026-05-27-summary.md), [10FSSAC5 PPM - 2025-03-13](../../sources/10fed/10fssac5-ppm-2025-03-13-summary.md), and [10FSSAC5 LLC Agreements - 2025](../../sources/10fed/10fssac5-llc-agreements-2025-summary.md).
+Source status: sponsor-provided materials, including [10 Federal Storage Slide Screenshots - 2026-06-03](../../sources/10fed/10-federal-storage-slide-screenshots-2026-06-03-summary.md), [10FSSAC5 Pitchbook - 2026-05-27](../../sources/10fed/10fssac5-pitchbook-2026-05-27-summary.md), [10FSSAC5 PPM - 2025-03-13](../../sources/10fed/10fssac5-ppm-2025-03-13-summary.md), and [10FSSAC5 LLC Agreements - 2025](../../sources/10fed/10fssac5-llc-agreements-2025-summary.md). Tax interpretation is supplemented by the secondary, LLM-assisted [10FSSAC5 Tax Structure Conversation - 2026-06-08](../../sources/10fed/10fssac5-tax-structure-conversation-2026-06-08-summary.md) and requires professional verification.
 
 ## Offering Summary
 
@@ -52,6 +52,18 @@ Source status: sponsor legal documents; verify against the final subscription do
 - Secondary return hurdle: LLC agreement defines a 15.0% per annum compounded annual return amount net of accrued preferred return.
 - Promote: Class S receives 30% after the 8.0% preferred return and 40% after a 15.0% IRR to limited partners on cash flows and capital events.
 - Final residual split: LLC agreement defines ultimate percentages of 60% to Class I Units and 40% to Class S Units.
+
+## Tax Structure And Reporting
+
+Source status: sponsor claims and an LLM-assisted interpretation; confirm against current executed documents and qualified tax advice for the investor's actual structure.
+
+- Investors subscribe for interests in 10FSSAC5-A, LLC, which is described as a partnership issuing Schedule K-1, while substantially all properties are expected to be held through a subsidiary electing REIT status.
+- The pitchbook states that investors will receive one K-1 by March 15 and no individual state K-1s. The conversation reports that the PPM and LLC agreement materially qualify this marketing statement: delivery may occur after April 15, and state tax, withholding, or filing obligations may still arise.
+- Taxable income may be allocated without matching cash. Tax distributions are discretionary under the LLC agreement and are treated as advances against future distributions.
+- Property-level depreciation and losses inside the REIT generally are not expected to pass directly through to investors. The reviewed materials do not promise cost-segregation, accelerated-depreciation, or bonus-depreciation deductions to Class I investors.
+- The intended quarterly distribution cadence and 5% current-distribution objective are not guarantees. Because the preferred return is 8% compounded annually, unpaid preferred return can accrue for later payment.
+- The 15% figure is a target investor IRR requiring operating cash flow plus successful refinancing or sale outcomes; it is not a 15% annual cash yield.
+- For an investor LLC taxed as a C corporation, the conversation flags corporate-level tax, lack of the individual Section 199A deduction, generally unavailable dividends-received deduction treatment for REIT dividends, and possible second-layer tax when proceeds are distributed to shareholders. These conclusions are investor-specific and unverified.
 
 ## Acquired Properties To Date
 

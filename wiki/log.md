@@ -63,3 +63,7 @@ Reviewed the committed source summary against the underlying conversation and cu
 ## [2026-06-08] ingest | 10FSSAC5 tax structure conversation
 
 Added `sources/10fed/10fssac5-tax-structure-conversation-2026-06-08.md` and a beside-source summary covering K-1 reporting, the subsidiary REIT structure, depreciation limitations, quarterly distribution intent, preferred return accrual, the 15% target IRR waterfall, and considerations for an investor LLC taxed as a C corporation.
+
+## [2026-06-09] review | 10FSSAC5 tax structure synthesis
+
+Reviewed the committed LLM-assisted tax conversation against existing 10FSSAC5 pitchbook, PPM, and LLC-agreement summaries. Strengthened the source-summary provenance warning, added qualified tax and reporting synthesis to [[10FSSAC5]], and expanded [[10 Federal Storage Diligence Questions]] for K-1 timing, state filings, assets outside the REIT, taxable income without cash, depreciation policy, illustrative reporting, and investor-specific C-corporation advice.
