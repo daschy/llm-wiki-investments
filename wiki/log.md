@@ -83,3 +83,7 @@ Reviewed the source inventory, maintained page inventory, index coverage, intern
 ## [2026-06-09] query | Quick overview of 10 Federal Storage
 
 Summarized [[10 Federal Storage]], [[10FSSAC5]], and the current diligence view. Treated the sponsor's strategy and historical returns as unverified claims and highlighted track-record, debt, fee, property-underwriting, automation, and tax-structure gaps. Not filed as a separate page because the answer is a straightforward retrieval from existing synthesis.
+
+## [2026-06-09] maintenance | Add source-change pre-commit hook
+
+Added `.githooks/pre-commit` to detect staged changes under `sources/` and run `codex exec` with the `$llm-wiki` workflow. The hook leaves generated research unstaged, blocks the first commit for review, and fingerprints the staged source diff under `.git/` so an unchanged retry does not rerun the update. Updated `AGENTS.md` with the hook behavior and validation command.

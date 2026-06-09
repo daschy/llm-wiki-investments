@@ -10,7 +10,7 @@ This repository is an investment research wiki, not an application.
 - `wiki/entities/`, `offerings/`, `properties/`, `topics/`, and `diligence/`: research pages grouped by purpose.
 - `wiki/index.md`: canonical catalog; `wiki/log.md`: append-only activity history.
 - `.agents/skills/llm-wiki/`: required wiki workflow.
-- `.codex/` and `.githooks/`: project automation.
+- `.codex/` and `.githooks/`: project automation, including source-change review.
 
 Place future code, models, or datasets in `tests/`, `models/`, and `data/`.
 
@@ -31,9 +31,12 @@ git diff --check
 git diff
 jq empty .codex/hooks.json
 /bin/zsh .codex/hooks/load-llm-wiki.zsh
+/bin/zsh .githooks/pre-commit
 ```
 
 Confirm claims against cited evidence, resolve internal links, and verify relative links into `sources/`. Update `wiki/index.md` after material page changes and append every material ingest, synthesis, review, or query to `wiki/log.md`.
+
+The pre-commit hook runs `$llm-wiki` when staged files under `sources/` change. It leaves generated research unstaged and blocks once so contributors can review and stage the intended updates before retrying the commit.
 
 ## Style & Naming
 

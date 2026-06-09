@@ -1,0 +1,66 @@
+#!/bin/zsh
+
+set -u
+
+repo_root="$(git rev-parse --show-toplevel 2>/dev/null)"
+if [[ -z "${repo_root}" ]]; then
+  print -u2 -- "pre-commit: unable to determine repository root"
+  exit 1
+fi
+
+cd "${repo_root}" || exit 1
+
+source_changes="$(git diff --cached --name-only --diff-filter=ACDMRTUXB -- sources/)"
+if [[ -z "${source_changes}" ]]; then
+  exit 0
+fi
+
+fingerprint="$(
+  git diff --cached --binary -- sources/ |
+    shasum -a 256 |
+    awk '{print $1}'
+)"
+state_file="$(git rev-parse --git-path llm-wiki-source-review)"
+
+if [[ -f "${state_file}" ]] && [[ "$(<"${state_file}")" == "${fingerprint}" ]]; then
+  rm -f "${state_file}"
+  exit 0
+fi
+
+if ! command -v codex >/dev/null 2>&1; then
+  print -u2 -- "pre-commit: staged source changes require a wiki update, but codex is not on PATH"
+  print -u2 -- "${source_changes}"
+  exit 1
+fi
+
+print -- "pre-commit: staged changes detected under sources/:"
+print -- "${source_changes}"
+print
+print -- "pre-commit: running llm-wiki update..."
+
+prompt="$(
+  cat <<PROMPT
+Use \$llm-wiki to review these staged changes under sources/:
+
+${source_changes}
+
+Orient from wiki/SCHEMA.md, wiki/index.md, and recent wiki/log.md entries. Update or create adjacent source summaries and durable wiki synthesis as warranted. Update wiki/index.md and append wiki/log.md for material changes. Preserve source provenance and uncertainty. Do not stage files, create a commit, amend, or revert existing work.
+PROMPT
+)"
+
+codex exec --cd "${repo_root}" --sandbox workspace-write "${prompt}"
+codex_status=$?
+
+print
+print -- "pre-commit: Codex finished with status ${codex_status}."
+git status --short
+
+if [[ ${codex_status} -ne 0 ]]; then
+  print -u2 -- "pre-commit: wiki update failed; review the output and retry"
+  exit ${codex_status}
+fi
+
+print -r -- "${fingerprint}" > "${state_file}"
+print
+print -- "pre-commit: review and stage the intended wiki changes, then retry the commit."
+exit 1
