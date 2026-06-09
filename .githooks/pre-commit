@@ -10,13 +10,19 @@ fi
 
 cd "${repo_root}" || exit 1
 
-source_changes="$(git diff --cached --name-only --diff-filter=ACDMRTUXB -- sources/)"
+source_changes="$(
+  git diff --cached --name-only --diff-filter=ACDMRTUXB -- sources/ |
+    awk '!/-(summary|extracted)\.md$/'
+)"
 if [[ -z "${source_changes}" ]]; then
   exit 0
 fi
 
 fingerprint="$(
-  git diff --cached --binary -- sources/ |
+  print -r -- "${source_changes}" |
+    while IFS= read -r source_file; do
+      git diff --cached --binary -- "${source_file}"
+    done |
     shasum -a 256 |
     awk '{print $1}'
 )"

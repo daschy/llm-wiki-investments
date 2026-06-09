@@ -91,3 +91,11 @@ Added `.githooks/pre-commit` to detect staged changes under `sources/` and run `
 ## [2026-06-09] review | Staged sources README deletion
 
 Reviewed the staged deletion of `sources/README.md`. The file contained repository source-handling guidance rather than investment evidence, no maintained links reference it, and the core source provenance and immutability rules remain in `AGENTS.md` and `wiki/SCHEMA.md`. No adjacent source summary, durable wiki synthesis, or index update was warranted.
+
+## [2026-06-09] review | BAM Capital and GSP REI staged web sources
+
+Reviewed the staged BAM Capital current-offerings page and GSP REI Income Fund page as sponsor public-marketing evidence. Added adjacent source summaries, [[BAM Capital]], [[BAM Multifamily Growth & Income Fund V]], [[GSP REI]], and [[GSP REI Income Fund]]. Preserved the BAM capture's truncation and naming discrepancy; treated all target returns, fixed-return language, principal-preservation claims, payment history, tax benefits, and UBIT statements as unverified pending legal documents, financial records, and professional review. Updated `wiki/index.md`; did not modify or stage the original source files.
+
+## [2026-06-09] review | BAM Capital and GSP REI synthesis precision
+
+Reviewed the staged source summaries and durable pages against both captured webpages. Clarified that capture metadata does not establish offering freshness, treated GSP's fixed return as a sponsor-stated rate promise whose enforceability and priority require legal documents, and added open verification of the compounding method. No new page or index entry was warranted, and the immutable webpage captures were not modified.

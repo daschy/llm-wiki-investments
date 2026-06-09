@@ -2,15 +2,19 @@
 
 This is the content-oriented catalog for the investment research wiki. Read this file first before answering research questions, then open the relevant linked pages.
 
-Last updated: 2026-06-09 | Maintained content pages: 12
+Last updated: 2026-06-09 | Maintained content pages: 16
 
 ## Entities
 
 - [[10 Federal Storage]] - self-storage sponsor/operator using data science, automation, and aggregation strategy claims.
+- [[BAM Capital]] - multifamily sponsor with a growth-and-income fund and an incompletely captured affiliated preferred-equity fund.
+- [[GSP REI]] - residential sponsor claiming vertically integrated acquisition, renovation, property management, and asset management.
 
 ## Offerings
 
 - [[10FSSAC5]] - current 10 Federal Storage self-storage offering with sponsor pitchbook/legal terms, acquired assets, pipeline, and diligence questions.
+- [[BAM Multifamily Growth & Income Fund V]] - Class A Midwest multifamily offering marketed with a $200k minimum and 15%-20% target IRR.
+- [[GSP REI Income Fund]] - 506(c) single-family strategy marketed with 8%-12% fixed returns across 12-36-month terms.
 
 ## Properties
 
@@ -21,10 +25,10 @@ Last updated: 2026-06-09 | Maintained content pages: 12
 ## Topics
 
 - [[Private Market Platform Entity Onboarding]] - eligibility, documentation, and diligence framework for a U.S. LLC owned through foreign entities seeking private-company secondary investments.
-- [[Self-Storage Fragmentation Thesis]] - thesis that U.S. self-storage remains fragmented and offers consolidation upside.
-- [[Self-Storage Automation Strategy]] - 10 Federal Storage's claimed operating efficiency strategy using technology and reduced on-site staffing.
-- [[Self-Storage Industry Benchmarks]] - public REIT and industry benchmark metrics for comparing private self-storage sponsor performance claims.
 - [[Real Estate Syndicate Diligence Criteria]] - reusable checklist and scoring rubric for evaluating U.S. real estate syndicate offerings.
+- [[Self-Storage Automation Strategy]] - 10 Federal Storage's claimed operating efficiency strategy using technology and reduced on-site staffing.
+- [[Self-Storage Fragmentation Thesis]] - thesis that U.S. self-storage remains fragmented and offers consolidation upside.
+- [[Self-Storage Industry Benchmarks]] - public REIT and industry benchmark metrics for comparing private self-storage sponsor performance claims.
 
 ## Sources
 
@@ -34,8 +38,10 @@ Last updated: 2026-06-09 | Maintained content pages: 12
 - [10FSSAC5 Pitchbook - 2026-05-27](../sources/10fed/10fssac5-pitchbook-2026-05-27-summary.md) - source summary from sponsor-provided 10FSSAC5 May 2026 pitchbook.
 - [10FSSAC5 PPM - 2025-03-13](../sources/10fed/10fssac5-ppm-2025-03-13-summary.md) - source summary from 10FSSAC5 private placement memorandum.
 - [10FSSAC5 Tax Structure Conversation - 2026-06-08](../sources/10fed/10fssac5-tax-structure-conversation-2026-06-08-summary.md) - LLM-assisted interpretation of K-1 reporting, REIT structure, depreciation, distributions, return targets, and C-corporation investor considerations; professional verification required.
-- [Real Estate Syndicate Diligence Claude Conversation](../sources/real-estate-syndicate-diligence-claude-conversation-summary.md) - source summary from extracted Claude conversation notes on real estate syndicate diligence.
+- [BAM Capital Real Estate Investment Opportunities](../sources/bamcapital.com/real-estate-investment-opportunities-summary.md) - incomplete sponsor webpage summary covering Fund V targets and a partial Preferred Credit Fund description.
+- [GSP REI Income Fund Public Webpage](../sources/gsprei.com/single-family-real-estate-income-fund--passive-monthly-cash-flow-summary.md) - sponsor webpage summary of fixed-return claims, terms, strategy, and missing structural evidence.
 - [Private Market Platform Requirements Chat - 2026-06-07](../sources/private-market-platform-requirements-chat-2026-06-07-summary.md) - source summary of an LLM-assisted conversation on accredited-investor and onboarding requirements for Nasdaq Private Market, Forge, EquityZen, and Hiive.
+- [Real Estate Syndicate Diligence Claude Conversation](../sources/real-estate-syndicate-diligence-claude-conversation-summary.md) - source summary from extracted Claude conversation notes on real estate syndicate diligence.
 - [Self-Storage Industry Benchmarks Since 2020 - 2026-06-04](../sources/self-storage-industry-benchmarks-since-2020-summary.md) - annual public self-storage REIT benchmark table from 2020 through 2026 YTD.
 - [Self-Storage Industry Benchmarks - 2026-06-04](../sources/self-storage-industry-benchmarks-2026-06-04-summary.md) - public REIT and industry metrics for benchmarking sponsor self-storage performance claims.
 
@@ -49,6 +55,8 @@ Last updated: 2026-06-09 | Maintained content pages: 12
 For 10 Federal Storage work, start with [[10FSSAC5]], then open [[10 Federal Storage]], [[10 Federal Storage Diligence Questions]], and the relevant source, property, or topic pages.
 
 For general real estate syndicate screening, start with [[Real Estate Syndicate Diligence Criteria]].
+
+For the newly captured multifamily and single-family income opportunities, start with [[BAM Multifamily Growth & Income Fund V]] or [[GSP REI Income Fund]], then review the corresponding sponsor page and source summary.
 
 For private-company secondary platform onboarding through a cross-border entity structure, start with [[Private Market Platform Entity Onboarding]].
 
