@@ -87,3 +87,7 @@ Summarized [[10 Federal Storage]], [[10FSSAC5]], and the current diligence view.
 ## [2026-06-09] maintenance | Add source-change pre-commit hook
 
 Added `.githooks/pre-commit` to detect staged changes under `sources/` and run `codex exec` with the `$llm-wiki` workflow. The hook leaves generated research unstaged, blocks the first commit for review, and fingerprints the staged source diff under `.git/` so an unchanged retry does not rerun the update. Updated `AGENTS.md` with the hook behavior and validation command.
+
+## [2026-06-09] review | Staged sources README deletion
+
+Reviewed the staged deletion of `sources/README.md`. The file contained repository source-handling guidance rather than investment evidence, no maintained links reference it, and the core source provenance and immutability rules remain in `AGENTS.md` and `wiki/SCHEMA.md`. No adjacent source summary, durable wiki synthesis, or index update was warranted.
