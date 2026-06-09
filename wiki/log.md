@@ -79,3 +79,7 @@ Updated `.agents/skills/llm-wiki/SKILL.md` with a machine-readable Codex tool al
 ## [2026-06-09] maintenance | Wiki integrity review
 
 Reviewed the source inventory, maintained page inventory, index coverage, internal wikilinks, source-summary links, page sizes, log size, and working tree. No new source required ingestion; all 12 maintained content pages remain indexed, no maintained page exceeds the 200-line split threshold, and no current content or source link required repair. Preserved the historical `[[Real Estate Syndicate Diligence Claude Conversation]]` log reference under the append-only log policy after confirming the source summary now appears in `wiki/index.md` as a relative Markdown link.
+
+## [2026-06-09] query | Quick overview of 10 Federal Storage
+
+Summarized [[10 Federal Storage]], [[10FSSAC5]], and the current diligence view. Treated the sponsor's strategy and historical returns as unverified claims and highlighted track-record, debt, fee, property-underwriting, automation, and tax-structure gaps. Not filed as a separate page because the answer is a straightforward retrieval from existing synthesis.
