@@ -78,15 +78,16 @@ wiki/
 ├── SCHEMA.md           # Conventions, structure rules, domain config
 ├── index.md            # Sectioned content catalog with one-line summaries
 ├── log.md              # Chronological action log (append-only, rotated yearly)
+├── sources/            # Layer 1: Immutable source material
+│   ├── articles/       # Web articles, clippings
+│   ├── papers/         # PDFs, arxiv papers
+│   ├── transcripts/    # Meeting notes, interviews
+│   |── assets/         # Images, diagrams referenced by sources
+|   |── <sponsors>/     # Sponsor-specific sources
 ├── entities/           # Layer 2: Entity pages (people, orgs, products, models)
-├── offerings/          # Layer 2: Investment vehicles and terms
-├── properties/         # Layer 2: Asset-level research
-├── topics/             # Layer 2: Reusable concepts and frameworks
-└── diligence/          # Layer 2: Memos, risks, and open questions
-
-sources/
-├── <sponsor>/          # Sponsor-specific originals and transformations
-└── assets/             # Shared attachments safe to store
+├── concepts/           # Layer 2: Concept/topic pages
+├── comparisons/        # Layer 2: Side-by-side analyses
+└── queries/            # Layer 2: Filed query results worth keeping
 ```
 
 **Layer 1 — Sources:** Original artifacts are immutable after capture. Clearly
