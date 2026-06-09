@@ -1,0 +1,17 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume|clear|compact",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/bin/zsh \"$(git rev-parse --show-toplevel)/.codex/hooks/load-llm-wiki.zsh\"",
+            "timeout": 10,
+            "statusMessage": "Loading llm-wiki"
+          }
+        ]
+      }
+    ]
+  }
+}
