@@ -46,7 +46,7 @@ print -- "pre-commit: running llm-wiki update..."
 
 prompt="$(
   cat <<PROMPT
-Use \$llm-wiki to review these staged changes under sources/:
+Use \$llm-wiki to update the wiki/:
 
 ${source_changes}
 
