@@ -1,4 +1,0 @@
-#!/bin/zsh
-
-# Source-ingest review runs in .githooks/post-commit so commits do not loop.
-exit 0
