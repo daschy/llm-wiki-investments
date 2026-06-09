@@ -1,0 +1,4 @@
+interface:
+  display_name: "LLM Wiki"
+  short_description: "Query and maintain the investment research wiki"
+  default_prompt: "Use $llm-wiki to research this question from the repository and update the wiki when needed."
