@@ -2,6 +2,8 @@
 
 This is the content-oriented catalog for the investment research wiki. Read this file first before answering research questions, then open the relevant linked pages.
 
+Last updated: 2026-06-09 | Maintained content pages: 12
+
 ## Entities
 
 - [[10 Federal Storage]] - self-storage sponsor/operator using data science, automation, and aggregation strategy claims.
@@ -49,3 +51,5 @@ For 10 Federal Storage work, start with [[10FSSAC5]], then open [[10 Federal Sto
 For general real estate syndicate screening, start with [[Real Estate Syndicate Diligence Criteria]].
 
 For private-company secondary platform onboarding through a cross-border entity structure, start with [[Private Market Platform Entity Onboarding]].
+
+For 10FSSAC5 tax structure, K-1 timing, REIT treatment, depreciation, and C-corporation investor considerations, start with [[10FSSAC5]], then review [[10 Federal Storage Diligence Questions]] and the linked tax-structure conversation summary.

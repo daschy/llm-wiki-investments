@@ -67,3 +67,7 @@ Added `sources/10fed/10fssac5-tax-structure-conversation-2026-06-08.md` and a be
 ## [2026-06-09] review | 10FSSAC5 tax structure synthesis
 
 Reviewed the committed LLM-assisted tax conversation against existing 10FSSAC5 pitchbook, PPM, and LLC-agreement summaries. Strengthened the source-summary provenance warning, added qualified tax and reporting synthesis to [[10FSSAC5]], and expanded [[10 Federal Storage Diligence Questions]] for K-1 timing, state filings, assets outside the REIT, taxable income without cash, depreciation policy, illustrative reporting, and investor-specific C-corporation advice.
+
+## [2026-06-09] maintenance | Add investment research wiki schema
+
+Added `wiki/SCHEMA.md` with repository-specific source hierarchy, page types, provenance rules, page thresholds, maintenance requirements, index and log policies, and quality standards. Updated `wiki/index.md` with its maintenance date, current page count, and a retrieval route for 10FSSAC5 tax-structure research.
