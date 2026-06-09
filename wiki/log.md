@@ -75,3 +75,7 @@ Added `wiki/SCHEMA.md` with repository-specific source hierarchy, page types, pr
 ## [2026-06-09] maintenance | Add Codex tooling to llm-wiki skill
 
 Updated `.agents/skills/llm-wiki/SKILL.md` with a machine-readable Codex tool allowlist, macOS `zsh` command conventions, repository-root path handling, current-web-research guidance, and repository-specific source/wiki structure. Replaced unavailable Hermes pseudo-tools and removed conflicting frontmatter and Linux service assumptions.
+
+## [2026-06-09] maintenance | Wiki integrity review
+
+Reviewed the source inventory, maintained page inventory, index coverage, internal wikilinks, source-summary links, page sizes, log size, and working tree. No new source required ingestion; all 12 maintained content pages remain indexed, no maintained page exceeds the 200-line split threshold, and no current content or source link required repair. Preserved the historical `[[Real Estate Syndicate Diligence Claude Conversation]]` log reference under the append-only log policy after confirming the source summary now appears in `wiki/index.md` as a relative Markdown link.
