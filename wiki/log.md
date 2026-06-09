@@ -71,3 +71,7 @@ Reviewed the committed LLM-assisted tax conversation against existing 10FSSAC5 p
 ## [2026-06-09] maintenance | Add investment research wiki schema
 
 Added `wiki/SCHEMA.md` with repository-specific source hierarchy, page types, provenance rules, page thresholds, maintenance requirements, index and log policies, and quality standards. Updated `wiki/index.md` with its maintenance date, current page count, and a retrieval route for 10FSSAC5 tax-structure research.
+
+## [2026-06-09] maintenance | Add Codex tooling to llm-wiki skill
+
+Updated `.agents/skills/llm-wiki/SKILL.md` with a machine-readable Codex tool allowlist, macOS `zsh` command conventions, repository-root path handling, current-web-research guidance, and repository-specific source/wiki structure. Replaced unavailable Hermes pseudo-tools and removed conflicting frontmatter and Linux service assumptions.
