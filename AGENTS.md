@@ -31,7 +31,7 @@ git diff --check
 git diff
 jq empty .codex/hooks.json
 /bin/zsh .codex/hooks/load-llm-wiki.zsh
-/bin/zsh .githooks/pre-commit
+/bin/zsh .githooks/pre-push
 ```
 
 Confirm claims against cited evidence, resolve internal links, and verify relative links into `wiki/raw/`. Update `wiki/index.md` after material page changes and append every material ingest, synthesis, review, or query to `wiki/log.md`.
