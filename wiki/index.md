@@ -2,12 +2,13 @@
 
 This is the content-oriented catalog for the investment research wiki. Read this file first before answering research questions, then open the relevant linked pages.
 
-Last updated: 2026-06-09 | Maintained content pages: 19
+Last updated: 2026-06-22 | Maintained content pages: 22
 
 ## Entities
 
 - [[10 Federal Storage]] - self-storage sponsor/operator using data science, automation, and aggregation strategy claims.
 - [[BAM Capital]] - multifamily sponsor with a growth-and-income fund and an incompletely captured affiliated preferred-equity fund.
+- [[Crystal View Capital]] - self-storage and manufactured-housing sponsor marketing Fund IV with public track-record, off-market sourcing, and vertical-integration claims.
 - [[GSP REI]] - residential sponsor claiming vertically integrated acquisition, renovation, property management, and asset management.
 - [[PPR Capital Management]] - sponsor presenting a housing-focused foundation fund and a qualified-purchaser opportunity fund with conflicting naming cues.
 
@@ -15,6 +16,7 @@ Last updated: 2026-06-09 | Maintained content pages: 19
 
 - [[10FSSAC5]] - current 10 Federal Storage self-storage offering with sponsor pitchbook/legal terms, acquired assets, pipeline, and diligence questions.
 - [[BAM Multifamily Growth & Income Fund V]] - Class A Midwest multifamily offering marketed with a $200k minimum and 15%-20% target IRR.
+- [[Crystal View Capital Fund IV]] - self-storage and manufactured-housing fund marketed with a $200M target size, $50k minimum, 15%-20% target IRR, and 7.0%-9.5% preferred return.
 - [[GSP REI Income Fund]] - 506(c) single-family strategy marketed with 8%-12% fixed returns across 12-36-month terms.
 - [[PPR Capital Foundation Fund]] - housing-focused accredited-investor fund with alternative 11% compounding and 9% monthly preferred-return presentations.
 - [[PPR Capital Opportunity Fund II]] - qualified-purchaser fund with a 16%+ target return, projected 60-month horizon, and accelerated-depreciation claim.
@@ -42,6 +44,7 @@ Last updated: 2026-06-09 | Maintained content pages: 19
 - [10FSSAC5 PPM - 2025-03-13](../sources/10fed/10fssac5-ppm-2025-03-13-summary.md) - source summary from 10FSSAC5 private placement memorandum.
 - [10FSSAC5 Tax Structure Conversation - 2026-06-08](../sources/10fed/10fssac5-tax-structure-conversation-2026-06-08-summary.md) - LLM-assisted interpretation of K-1 reporting, REIT structure, depreciation, distributions, return targets, and C-corporation investor considerations; professional verification required.
 - [BAM Capital Real Estate Investment Opportunities](../sources/bamcapital.com/real-estate-investment-opportunities-summary.md) - incomplete sponsor webpage summary covering Fund V targets and a partial Preferred Credit Fund description.
+- [Crystal View Capital Public Website Capture - 2026-06-22](../sources/crystalviewcapital.com/website-public-pages-2026-06-22-summary.md) - sponsor website capture covering Fund IV marketing terms, track-record claims, strategy pages, article archive, legal disclaimers, and unresolved verification gaps.
 - [GSP REI Income Fund Public Webpage](../sources/gsprei.com/single-family-real-estate-income-fund--passive-monthly-cash-flow-summary.md) - sponsor webpage summary of fixed-return claims, terms, strategy, and missing structural evidence.
 - [PPR Capital Current Offerings](../sources/pprcapitalmgmt.com/current-offerings-summary.md) - sponsor webpage summary of Foundation Fund and Opportunity Fund II marketing claims, naming ambiguity, and missing legal documentation.
 - [PPR Capital Foundation Fund](../sources/pprcapitalmgmt.com/ppr-capital-foundation-fund-summary.md) - sponsor webpage summary of the foundation fund's diversified residential strategy, monthly distributions, and asset-class mix.
@@ -55,6 +58,7 @@ Last updated: 2026-06-09 | Maintained content pages: 19
 
 - [[10 Federal Storage Diligence Memo - 2026-06-04]] - investment diligence synthesis and gating questions for 10 Federal Storage / 10FSSAC5.
 - [[10 Federal Storage Diligence Questions]] - open verification questions, risks, and follow-up requests.
+- [[Crystal View Capital Diligence Questions]] - document, track-record, property-level, debt, fee, conflict, distribution, and tax verification request list for Crystal View Capital Fund IV.
 
 ## Retrieval Notes
 
@@ -65,6 +69,8 @@ For general real estate syndicate screening, start with [[Real Estate Syndicate 
 For the newly captured multifamily and single-family income opportunities, start with [[BAM Multifamily Growth & Income Fund V]] or [[GSP REI Income Fund]], then review the corresponding sponsor page and source summary.
 
 For PPR Capital work, start with [[PPR Capital Management]], then review [[PPR Capital Foundation Fund]], [[PPR Capital Opportunity Fund II]], and the linked source summaries.
+
+For Crystal View Capital work, start with [[Crystal View Capital Fund IV]], then review [[Crystal View Capital]], [[Crystal View Capital Diligence Questions]], and the public website capture summary.
 
 For private-company secondary platform onboarding through a cross-border entity structure, start with [[Private Market Platform Entity Onboarding]].
 

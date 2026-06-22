@@ -107,3 +107,15 @@ Reviewed the staged `sources/pprcapitalmgmt.com/current-offerings.md` capture pl
 ## [2026-06-09] maintenance | Normalize PPR Foundation capture whitespace
 
 Cleaned trailing whitespace from `sources/pprcapitalmgmt.com/ppr-capital-foundation-fund.md` in the working tree. The staged copy was left unchanged per instruction, so `git diff --cached --check` still reflects the earlier capture state.
+
+## [2026-06-22] ingest | Crystal View Capital public website
+
+Captured the Crystal View Capital public website into `sources/crystalviewcapital.com/`: preserved the existing `homepage.md`, added Markdown captures for 134 sitemap pages, added Markdown captures for 8 additional public routes discovered through the Framer search index, and saved the raw `framer-search-index-2026-06-22.json`. Added `sources/crystalviewcapital.com/site-capture-index-2026-06-22.md` and `sources/crystalviewcapital.com/website-public-pages-2026-06-22-summary.md`; created [[Crystal View Capital]] and [[Crystal View Capital Fund IV]]; updated `wiki/index.md`. Treated all target returns, preferred returns, AUM, distributions, IRR/MOIC, testimonials, tax commentary, acquisition updates, and strategy claims as sponsor-provided and unverified pending governing documents, financial records, and professional review.
+
+## [2026-06-22] maintenance | Prune Crystal View Capital source captures
+
+Removed low-signal website-plumbing captures from `sources/crystalviewcapital.com/`, including lead-capture, contact, event, policy, investor-summit, RSVP/referral, webinar registration/confirmation, and raw Framer search-index files. Retained 124 Markdown source files, including the existing homepage capture, sponsor/offering pages, strategy, track record, FAQ, disclaimer, family-office, news, webinar, and article/update pages. Updated `site-capture-index-2026-06-22.md` and `website-public-pages-2026-06-22-summary.md` to reflect the pruned source set.
+
+## [2026-06-22] synthesis | Crystal View Capital diligence questions
+
+Reviewed the retained Crystal View Capital public website captures listed by the user. Added [[Crystal View Capital Diligence Questions]] to convert Fund IV public-marketing, track-record, article-archive, tax, debt, fee, and operating claims into a sponsor document-request checklist. Updated [[Crystal View Capital]], [[Crystal View Capital Fund IV]], `sources/crystalviewcapital.com/website-public-pages-2026-06-22-summary.md`, and `wiki/index.md` to preserve the website disclaimer, internal KPI inconsistency, and unresolved verification gaps. No source files were modified other than the adjacent source summary.
