@@ -6,7 +6,7 @@ LLM-assisted research conversation about 10 Federal Storage / 10FSSAC5 distribut
 
 ## Scope And Limitations
 
-The conversation synthesized sponsor-provided materials in `sources/10fed/`, principally:
+The conversation synthesized sponsor-provided materials in `raw/10fed/`, principally:
 
 - `10FSSAC5-A , LLC Pitchbook.pdf`
 - `10FSSAC5-A PPM.pdf`

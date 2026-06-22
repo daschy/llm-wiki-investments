@@ -1,6 +1,6 @@
 # Real Estate Syndicate Diligence Claude Conversation
 
-Source: `sources/real-estate-syndicate-diligence-claude-conversation.md`
+Source: `raw/real-estate-syndicate-diligence-claude-conversation.md`
 
 Source type: extracted notes from a Claude conversation.
 

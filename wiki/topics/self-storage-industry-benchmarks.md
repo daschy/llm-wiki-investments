@@ -2,7 +2,7 @@
 
 Related pages: [[10 Federal Storage]], [[10FSSAC5]], [[Self-Storage Fragmentation Thesis]], [[Self-Storage Automation Strategy]]
 
-Source status: public REIT and industry metrics summarized from [Self-Storage Industry Benchmarks - 2026-06-04](../../sources/self-storage-industry-benchmarks-2026-06-04-summary.md) and [Self-Storage Industry Benchmarks Since 2020 - 2026-06-04](../../sources/self-storage-industry-benchmarks-since-2020-summary.md). Public REIT data is not directly comparable to private value-add fund IRRs because public REITs are large stabilized portfolios with public equity pricing, different leverage, liquidity, and reporting conventions.
+Source status: public REIT and industry metrics summarized from [Self-Storage Industry Benchmarks - 2026-06-04](../../raw/self-storage-industry-benchmarks-2026-06-04-summary.md) and [Self-Storage Industry Benchmarks Since 2020 - 2026-06-04](../../raw/self-storage-industry-benchmarks-since-2020-summary.md). Public REIT data is not directly comparable to private value-add fund IRRs because public REITs are large stabilized portfolios with public equity pricing, different leverage, liquidity, and reporting conventions.
 
 ## Benchmark Snapshot
 

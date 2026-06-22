@@ -1,6 +1,6 @@
 # Private Market Platform Entity Onboarding
 
-Source: [Private Market Platform Requirements Chat - 2026-06-07](../../sources/private-market-platform-requirements-chat-2026-06-07-summary.md)
+Source: [Private Market Platform Requirements Chat - 2026-06-07](../../raw/private-market-platform-requirements-chat-2026-06-07-summary.md)
 
 Reliability: working diligence framework derived from an LLM-assisted conversation and limited public-source spot checks, including SEC guidance current on June 7, 2026. It is not legal, tax, or platform eligibility advice.
 

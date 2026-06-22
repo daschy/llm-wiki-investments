@@ -2,7 +2,7 @@
 
 Related entity: [[10 Federal Storage]]
 
-Source status: sponsor-provided claims from [10 Federal Storage Slide Screenshots - 2026-06-03](../../sources/10fed/10-federal-storage-slide-screenshots-2026-06-03-summary.md), [10FSSAC5 Pitchbook - 2026-05-27](../../sources/10fed/10fssac5-pitchbook-2026-05-27-summary.md), and [10FSSAC5 PPM - 2025-03-13](../../sources/10fed/10fssac5-ppm-2025-03-13-summary.md), with industry context from [[Self-Storage Industry Benchmarks]].
+Source status: sponsor-provided claims from [10 Federal Storage Slide Screenshots - 2026-06-03](../../raw/10fed/10-federal-storage-slide-screenshots-2026-06-03-summary.md), [10FSSAC5 Pitchbook - 2026-05-27](../../raw/10fed/10fssac5-pitchbook-2026-05-27-summary.md), and [10FSSAC5 PPM - 2025-03-13](../../raw/10fed/10fssac5-ppm-2025-03-13-summary.md), with industry context from [[Self-Storage Industry Benchmarks]].
 
 ## Thesis
 

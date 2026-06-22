@@ -119,3 +119,7 @@ Removed low-signal website-plumbing captures from `sources/crystalviewcapital.co
 ## [2026-06-22] synthesis | Crystal View Capital diligence questions
 
 Reviewed the retained Crystal View Capital public website captures listed by the user. Added [[Crystal View Capital Diligence Questions]] to convert Fund IV public-marketing, track-record, article-archive, tax, debt, fee, and operating claims into a sponsor document-request checklist. Updated [[Crystal View Capital]], [[Crystal View Capital Fund IV]], `sources/crystalviewcapital.com/website-public-pages-2026-06-22-summary.md`, and `wiki/index.md` to preserve the website disclaimer, internal KPI inconsistency, and unresolved verification gaps. No source files were modified other than the adjacent source summary.
+
+## [2026-06-22] maintenance | Rename sources directory to raw
+
+Renamed the repository evidence directory from `sources/` to `raw/`. Updated maintained wiki links, repository guidance, schema language, adjacent source summaries, and the source-change pre-commit hook to use `raw/` as the canonical immutable evidence location. Historical log entries above retain their original context.

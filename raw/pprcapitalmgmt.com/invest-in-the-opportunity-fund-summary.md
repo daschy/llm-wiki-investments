@@ -1,6 +1,6 @@
 # PPR Capital Opportunity Fund II
 
-Source file: `sources/pprcapitalmgmt.com/invest-in-the-opportunity-fund.md`
+Source file: `raw/pprcapitalmgmt.com/invest-in-the-opportunity-fund.md`
 
 Source URL: https://pprcapitalmgmt.com/opportunity-fund/
 

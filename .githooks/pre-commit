@@ -11,7 +11,7 @@ fi
 cd "${repo_root}" || exit 1
 
 source_changes="$(
-  git diff --cached --name-only --diff-filter=ACDMRTUXB -- sources/ |
+  git diff --cached --name-only --diff-filter=ACDMRTUXB -- raw/ |
     awk '!/-(summary|extracted)\.md$/'
 )"
 if [[ -z "${source_changes}" ]]; then
@@ -39,7 +39,7 @@ if ! command -v codex >/dev/null 2>&1; then
   exit 1
 fi
 
-print -- "pre-commit: staged changes detected under sources/:"
+print -- "pre-commit: staged changes detected under raw/:"
 print -- "${source_changes}"
 print
 print -- "pre-commit: running llm-wiki update..."

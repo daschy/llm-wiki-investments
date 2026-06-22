@@ -53,7 +53,7 @@ wiki/
 ├── SCHEMA.md           # Conventions, structure rules, domain config
 ├── index.md            # Sectioned content catalog with one-line summaries
 ├── log.md              # Chronological action log (append-only, rotated yearly)
-├── sources/            # Layer 1: Immutable source material
+├── raw/                # Layer 1: Immutable source material
 │   ├── articles/       # Web articles, clippings
 │   ├── papers/         # PDFs, arxiv papers
 │   ├── transcripts/    # Meeting notes, interviews
@@ -64,7 +64,7 @@ wiki/
 ├── comparisons/        # Layer 2: Side-by-side analyses
 └── queries/            # Layer 2: Filed query results worth keeping
 ```
-**Layer 1 — Sources Sources:** Immutable. The agent reads but never modifies these.
+**Layer 1 — Raw Sources:** Immutable. The agent reads but never modifies these.
 **Layer 2 — The Wiki:** Agent-owned markdown files. Created, updated, and
 cross-referenced by the agent.
 **Layer 3 — The Schema:** `SCHEMA.md` defines structure, conventions, and tag taxonomy.
@@ -123,10 +123,10 @@ Adapt to the user's domain. The schema constrains agent behavior and ensures con
 - When updating a page, always bump the `updated` date
 - Every new page must be added to `index.md` under the correct section
 - Every action must be appended to `log.md`
-- **Provenance markers:** On pages that synthesize 3+ sources, append `^[sources/articles/source-file.md]`
+- **Provenance markers:** On pages that synthesize 3+ sources, append `^[raw/articles/source-file.md]`
   at the end of paragraphs whose claims come from a specific source. This lets a reader trace each
-  claim back without re-reading the whole sources file. Optional on single-source pages where the
-  `sources:` frontmatter is enough.
+  claim back without re-reading the whole raw file. Optional on single-source pages where the
+  `raw:` frontmatter is enough.
 
 ## Frontmatter
   ```yaml
@@ -136,7 +136,7 @@ Adapt to the user's domain. The schema constrains agent behavior and ensures con
   updated: YYYY-MM-DD
   type: entity | concept | comparison | query | summary
   tags: [from taxonomy below]
-  sources: [sources/articles/source-name.md]
+  raw: [raw/articles/source-name.md]
   # Optional quality signals:
   confidence: high | medium | low        # how well-supported the claims are
   contested: true                        # set when the page has unresolved contradictions
@@ -148,9 +148,9 @@ Adapt to the user's domain. The schema constrains agent behavior and ensures con
 topics. Lint surfaces `contested: true` and `confidence: low` pages for review so weak claims
 don't silently harden into accepted wiki fact.
 
-### sources/ Frontmatter
+### raw/ Frontmatter
 
-Sources files ALSO get a small frontmatter block so re-ingests can detect drift:
+Raw files ALSO get a small frontmatter block so re-ingests can detect drift:
 
 ```yaml
 ---
@@ -258,12 +258,12 @@ a `_meta/topic-map.md` that groups pages by theme for faster navigation.
 
 When the user provides a source (URL, file, paste), integrate it into the wiki:
 
-① **Capture the sources source:**
-   - URL → use `web_extract` to get markdown, save to `sources/articles/`
-   - PDF → use `web_extract` (handles PDFs), save to `sources/papers/`
-   - Pasted text → save to appropriate `sources/` subdirectory
-   - Name the file descriptively: `sources/articles/karpathy-llm-wiki-2026.md`
-   - **Add sources frontmatter** (`source_url`, `ingested`, `sha256` of the body).
+① **Capture the raw source:**
+   - URL → use `web_extract` to get markdown, save to `raw/articles/`
+   - PDF → use `web_extract` (handles PDFs), save to `raw/papers/`
+   - Pasted text → save to appropriate `raw/` subdirectory
+   - Name the file descriptively: `raw/articles/karpathy-llm-wiki-2026.md`
+   - **Add raw frontmatter** (`source_url`, `ingested`, `sha256` of the body).
      On re-ingest of the same URL: recompute the sha256, compare to the stored value —
      skip if identical, flag drift and update if different. This is cheap enough to
      do on every re-ingest and catches silent source changes.
@@ -283,7 +283,7 @@ When the user provides a source (URL, file, paste), integrate it into the wiki:
    - **Cross-reference:** Every new or updated page must link to at least 2 other
      pages via `[[wikilinks]]`. Check that existing pages link back.
    - **Tags:** Only use tags from the taxonomy in SCHEMA.md
-   - **Provenance:** On pages synthesizing 3+ sources, append `^[sources/articles/source.md]`
+   - **Provenance:** On pages synthesizing 3+ sources, append `^[raw/articles/source.md]`
      markers to paragraphs whose claims trace to a specific source.
    - **Confidence:** For opinion-heavy, fast-moving, or single-source claims, set
      `confidence: medium` or `low` in frontmatter. Don't mark `high` unless the
@@ -349,9 +349,9 @@ wiki = "<WIKI_PATH>"
    only a single source but has no confidence field set — these are candidates
    for either finding corroboration or demoting to `confidence: medium`.
 
-⑧ **Source drift:** For each file in `sources/` with a `sha256:` frontmatter, recompute
+⑧ **Source drift:** For each file in `raw/` with a `sha256:` frontmatter, recompute
    the hash and flag mismatches. Mismatches indicate the sources file was edited
-   (shouldn't happen — sources/ is immutable) or ingested from a URL that has since
+   (shouldn't happen — raw/ is immutable) or ingested from a URL that has since
    changed. Not a hard error, but worth reporting.
 
 ⑨ **Page size:** Flag pages over 200 lines — candidates for splitting.
@@ -408,10 +408,10 @@ The wiki directory works as an Obsidian vault out of the box:
 - `[[wikilinks]]` render as clickable links
 - Graph View visualizes the knowledge network
 - YAML frontmatter powers Dataview queries
-- The `sources/assets/` folder holds images referenced via `![[image.png]]`
+- The `raw/assets/` folder holds images referenced via `![[image.png]]`
 
 For best results:
-- Set Obsidian's attachment folder to `sources/assets/`
+- Set Obsidian's attachment folder to `raw/assets/`
 - Enable "Wikilinks" in Obsidian settings (usually on by default)
 - Install Dataview plugin for queries like `TABLE tags FROM "entities" WHERE contains(tags, "company")`
 
@@ -476,7 +476,7 @@ vault in Obsidian on your laptop/phone — changes appear within seconds.
 
 ## Pitfalls
 
-- **Never modify files in `sources/`** — sources are immutable. Corrections go in wiki pages.
+- **Never modify files in `raw/`** — raw files are immutable. Corrections go in wiki pages.
 - **Always orient first** — read SCHEMA + index + recent log before any operation in a new session.
   Skipping this causes duplicates and missed cross-references.
 - **Always update index.md and log.md** — skipping this makes the wiki degrade. These are the

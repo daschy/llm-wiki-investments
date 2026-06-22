@@ -2,7 +2,7 @@
 
 Related pages: [[10 Federal Storage]], [[10FSSAC5]], [[10 Federal Storage Diligence Questions]], [[Self-Storage Industry Benchmarks]], [[Real Estate Syndicate Diligence Criteria]]
 
-Source status: synthesis from sponsor-provided materials in `sources/10fed/`, public SEC Form D filings, 10 Federal public webpages, BBB/Trustpilot consumer feedback, Inside Self Storage reporting, and the repository's public self-storage benchmark summary. This is investment diligence, not tax, legal, or investment advice.
+Source status: synthesis from sponsor-provided materials in `raw/10fed/`, public SEC Form D filings, 10 Federal public webpages, BBB/Trustpilot consumer feedback, Inside Self Storage reporting, and the repository's public self-storage benchmark summary. This is investment diligence, not tax, legal, or investment advice.
 
 ## Short View
 

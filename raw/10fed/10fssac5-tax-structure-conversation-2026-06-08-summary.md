@@ -1,6 +1,6 @@
 # 10FSSAC5 Tax Structure Conversation - 2026-06-08 Summary
 
-Source: `sources/10fed/10fssac5-tax-structure-conversation-2026-06-08.md`
+Source: `raw/10fed/10fssac5-tax-structure-conversation-2026-06-08.md`
 
 Source type: LLM-assisted research conversation based primarily on sponsor-provided 10FSSAC5 documents.
 

@@ -1,6 +1,6 @@
 # GSP REI Income Fund Public Webpage
 
-Source file: `sources/gsprei.com/single-family-real-estate-income-fund--passive-monthly-cash-flow.md`
+Source file: `raw/gsprei.com/single-family-real-estate-income-fund--passive-monthly-cash-flow.md`
 
 Source URL: https://gsprei.com/income-fund/
 

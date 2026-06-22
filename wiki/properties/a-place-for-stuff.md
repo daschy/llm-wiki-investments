@@ -4,7 +4,7 @@ Offering: [[10FSSAC5]]
 
 Location: Gray, TN.
 
-Source status: sponsor pitchbook claims from [10FSSAC5 Pitchbook - 2026-05-27](../../sources/10fed/10fssac5-pitchbook-2026-05-27-summary.md).
+Source status: sponsor pitchbook claims from [10FSSAC5 Pitchbook - 2026-05-27](../../raw/10fed/10fssac5-pitchbook-2026-05-27-summary.md).
 
 ## Investment Details
 

@@ -1,6 +1,6 @@
 # GSP REI
 
-Source status: sponsor public-marketing claims from [GSP REI Income Fund Public Webpage](../../sources/gsprei.com/single-family-real-estate-income-fund--passive-monthly-cash-flow-summary.md). No legal documents, financial statements, property records, or independent performance verification was reviewed.
+Source status: sponsor public-marketing claims from [GSP REI Income Fund Public Webpage](../../raw/gsprei.com/single-family-real-estate-income-fund--passive-monthly-cash-flow-summary.md). No legal documents, financial statements, property records, or independent performance verification was reviewed.
 
 GSP REI is presented as a vertically integrated residential real estate sponsor operating [[GSP REI Income Fund]]. The offering should be reviewed using [[Real Estate Syndicate Diligence Criteria]].
 

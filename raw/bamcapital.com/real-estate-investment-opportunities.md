@@ -21,8 +21,7 @@ Multifamily Portfolio
 The BAM Multifamily Growth Fund V is built to provide a balance of tax benefits, capital appreciation, and long-term wealth creation for investors. This exclusive investment opportunity targets Class A assets in Midwest markets with strong demographics and supply-demand imbalances. It also offers significant tax advantages through strategic investments and depreciation. Key highlights of Fund V include:
 
 - **Open to Accredited Investors**
-- **$200K Minimum  
-	**
+- **$200K Minimum**
 - **15% – 20% Target IRR**
 - **2.0x – 2.5x Equity Multiple**
 - **Up to 8% Preferred Returns**

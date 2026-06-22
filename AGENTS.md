@@ -4,8 +4,8 @@
 
 This repository is an investment research wiki, not an application.
 
-- `sources/`: immutable PDFs, spreadsheets, screenshots, conversations, and adjacent `-summary.md` or `-extracted.md` transformations.
-- `sources/<sponsor>/`: sponsor-specific evidence;.
+- `raw/`: immutable PDFs, spreadsheets, screenshots, conversations, and adjacent `-summary.md` or `-extracted.md` transformations.
+- `raw/<sponsor>/`: sponsor-specific evidence;.
 - `wiki/`: maintained synthesis.
 - `wiki/entities/`, `offerings/`, `properties/`, `topics/`, and `diligence/`: research pages grouped by purpose.
 - `wiki/index.md`: canonical catalog; `wiki/log.md`: append-only activity history.
@@ -25,7 +25,7 @@ Do not overwrite original sources unless explicitly directed. Mark sponsor claim
 There is no application build or automated test suite. Validate research changes manually:
 
 ```zsh
-rg "search term" wiki sources
+rg "search term" wiki raw
 find wiki -type f -name '*.md' | sort
 git diff --check
 git diff
@@ -34,9 +34,9 @@ jq empty .codex/hooks.json
 /bin/zsh .githooks/pre-commit
 ```
 
-Confirm claims against cited evidence, resolve internal links, and verify relative links into `sources/`. Update `wiki/index.md` after material page changes and append every material ingest, synthesis, review, or query to `wiki/log.md`.
+Confirm claims against cited evidence, resolve internal links, and verify relative links into `raw/`. Update `wiki/index.md` after material page changes and append every material ingest, synthesis, review, or query to `wiki/log.md`.
 
-The pre-commit hook runs `$llm-wiki` when staged files under `sources/` change. It leaves generated research unstaged and blocks once so contributors can review and stage the intended updates before retrying the commit.
+The pre-commit hook runs `$llm-wiki` when staged files under `raw/` change. It leaves generated research unstaged and blocks once so contributors can review and stage the intended updates before retrying the commit.
 
 ## Style & Naming
 

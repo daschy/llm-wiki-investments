@@ -1,6 +1,6 @@
 # PPR Capital Foundation Fund
 
-Source file: `sources/pprcapitalmgmt.com/ppr-capital-foundation-fund.md`
+Source file: `raw/pprcapitalmgmt.com/ppr-capital-foundation-fund.md`
 
 Source URL: https://pprcapitalmgmt.com/foundation-fund/
 

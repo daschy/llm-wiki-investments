@@ -11,7 +11,7 @@ Source status: public-market benchmark synthesis compiled on June 4, 2026 from P
 - Public Storage 2025 annual report / 2024-2025 operating data: <https://s1.q4cdn.com/588671402/files/doc_financials/2025/ar/2025-PSA-Annual-Report-Final-Bookmarked.pdf>
 - Extra Space Storage 2020 annual report, citing Self-Storage Almanac national occupancy: <https://www.extraspace.com/annualreport/2020/pdf/extraspacestorage-10-k-2020.pdf>
 - Newmark Self Storage Group 4Q 2020 REIT Report: <https://f.tlcollect.com/fr2/221/33532/Self_Storage_REIT_Report_4Q20.pdf>
-- Nareit self-storage sector data summarized in `sources/self-storage-industry-benchmarks-2026-06-04-summary.md`.
+- Nareit self-storage sector data summarized in `raw/self-storage-industry-benchmarks-2026-06-04-summary.md`.
 
 ## Annual Benchmark Table
 

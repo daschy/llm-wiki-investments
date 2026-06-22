@@ -1,6 +1,6 @@
 # PPR Capital Management Current Offerings
 
-Source file: `sources/pprcapitalmgmt.com/current-offerings.md`
+Source file: `raw/pprcapitalmgmt.com/current-offerings.md`
 
 Source URL: https://pprcapitalmgmt.com/current-offerings/
 

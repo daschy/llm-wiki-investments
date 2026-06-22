@@ -2,8 +2,8 @@
 
 Source files:
 
-- `sources/10fed/10FSSAC5-A, LLC Agreement.pdf`
-- `sources/10fed/10FSSAC5-A - LLC Agreement (Retail Investors)(4201545.8).pdf`
+- `raw/10fed/10FSSAC5-A, LLC Agreement.pdf`
+- `raw/10fed/10FSSAC5-A - LLC Agreement (Retail Investors)(4201545.8).pdf`
 
 PDF metadata: main LLC agreement created March 18, 2025; retail-investor version created April 28, 2025. Both files are 79 pages.
 

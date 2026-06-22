@@ -2,7 +2,7 @@
 
 Sponsor: [[GSP REI]]
 
-Source status: sponsor public-marketing webpage summarized in [GSP REI Income Fund Public Webpage](../../sources/gsprei.com/single-family-real-estate-income-fund--passive-monthly-cash-flow-summary.md). Apply [[Real Estate Syndicate Diligence Criteria]]. No PPM, governing agreement, financial statements, collateral records, or independent performance verification was reviewed, and the capture metadata does not prove that the displayed offering or terms remained current on June 9, 2026.
+Source status: sponsor public-marketing webpage summarized in [GSP REI Income Fund Public Webpage](../../raw/gsprei.com/single-family-real-estate-income-fund--passive-monthly-cash-flow-summary.md). Apply [[Real Estate Syndicate Diligence Criteria]]. No PPM, governing agreement, financial statements, collateral records, or independent performance verification was reviewed, and the capture metadata does not prove that the displayed offering or terms remained current on June 9, 2026.
 
 ## Sponsor-Stated Terms
 

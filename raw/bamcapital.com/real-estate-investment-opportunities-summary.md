@@ -1,6 +1,6 @@
 # BAM Capital Real Estate Investment Opportunities
 
-Source file: `sources/bamcapital.com/real-estate-investment-opportunities.md`
+Source file: `raw/bamcapital.com/real-estate-investment-opportunities.md`
 
 Source URL: https://bamcapital.com/current-offerings/
 

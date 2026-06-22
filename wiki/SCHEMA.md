@@ -6,7 +6,7 @@ Private-market investment research, currently focused on U.S. real estate syndic
 
 ## Layers
 
-- `sources/`: original evidence and adjacent source-derived transformations.
+- `raw/`: original evidence and adjacent source-derived transformations.
 - `wiki/`: durable synthesis maintained from the available evidence.
 - `AGENTS.md`: repository workflow, validation, security, and Git conventions.
 
@@ -25,7 +25,7 @@ Original PDFs, spreadsheets, screenshots, exports, and conversation artifacts ar
 - Use lowercase, hyphen-separated filenames.
 - Use ATX headings, short paragraphs, concise bullets, and tables where comparison helps.
 - Use `[[wikilinks]]` for internal wiki pages.
-- Use relative Markdown links for files under `sources/`.
+- Use relative Markdown links for files under `raw/`.
 - Mark sponsor-provided, screenshot-derived, LLM-assisted, and otherwise unverified claims explicitly.
 - Distinguish targets and estimates from realized results.
 - Distinguish gross project returns from net investor returns.
@@ -61,7 +61,7 @@ Before wiki work:
 1. Read this file.
 2. Read `wiki/index.md`.
 3. Read the latest 20-30 entries in `wiki/log.md`.
-4. Search existing wiki and source summaries.
+4. Search existing wiki and raw summaries.
 
 After material wiki work:
 

@@ -37,22 +37,22 @@ Last updated: 2026-06-22 | Maintained content pages: 22
 
 ## Sources
 
-- [10 Federal Track Record Workbook - 2025-11](../sources/10fed/10-federal-track-record-workbook-2025-11-summary.md) - source summary from sponsor-provided 10 Federal track-record workbook.
-- [10 Federal Storage Slide Screenshots - 2026-06-03](../sources/10fed/10-federal-storage-slide-screenshots-2026-06-03-summary.md) - source summary from the presentation screenshots shared on June 3, 2026.
-- [10FSSAC5 LLC Agreements - 2025](../sources/10fed/10fssac5-llc-agreements-2025-summary.md) - source summary from 10FSSAC5 LLC agreement PDFs.
-- [10FSSAC5 Pitchbook - 2026-05-27](../sources/10fed/10fssac5-pitchbook-2026-05-27-summary.md) - source summary from sponsor-provided 10FSSAC5 May 2026 pitchbook.
-- [10FSSAC5 PPM - 2025-03-13](../sources/10fed/10fssac5-ppm-2025-03-13-summary.md) - source summary from 10FSSAC5 private placement memorandum.
-- [10FSSAC5 Tax Structure Conversation - 2026-06-08](../sources/10fed/10fssac5-tax-structure-conversation-2026-06-08-summary.md) - LLM-assisted interpretation of K-1 reporting, REIT structure, depreciation, distributions, return targets, and C-corporation investor considerations; professional verification required.
-- [BAM Capital Real Estate Investment Opportunities](../sources/bamcapital.com/real-estate-investment-opportunities-summary.md) - incomplete sponsor webpage summary covering Fund V targets and a partial Preferred Credit Fund description.
-- [Crystal View Capital Public Website Capture - 2026-06-22](../sources/crystalviewcapital.com/website-public-pages-2026-06-22-summary.md) - sponsor website capture covering Fund IV marketing terms, track-record claims, strategy pages, article archive, legal disclaimers, and unresolved verification gaps.
-- [GSP REI Income Fund Public Webpage](../sources/gsprei.com/single-family-real-estate-income-fund--passive-monthly-cash-flow-summary.md) - sponsor webpage summary of fixed-return claims, terms, strategy, and missing structural evidence.
-- [PPR Capital Current Offerings](../sources/pprcapitalmgmt.com/current-offerings-summary.md) - sponsor webpage summary of Foundation Fund and Opportunity Fund II marketing claims, naming ambiguity, and missing legal documentation.
-- [PPR Capital Foundation Fund](../sources/pprcapitalmgmt.com/ppr-capital-foundation-fund-summary.md) - sponsor webpage summary of the foundation fund's diversified residential strategy, monthly distributions, and asset-class mix.
-- [PPR Capital Opportunity Fund II](../sources/pprcapitalmgmt.com/invest-in-the-opportunity-fund-summary.md) - sponsor webpage summary of the car-wash development strategy, return claims, and tax assertions.
-- [Private Market Platform Requirements Chat - 2026-06-07](../sources/private-market-platform-requirements-chat-2026-06-07-summary.md) - source summary of an LLM-assisted conversation on accredited-investor and onboarding requirements for Nasdaq Private Market, Forge, EquityZen, and Hiive.
-- [Real Estate Syndicate Diligence Claude Conversation](../sources/real-estate-syndicate-diligence-claude-conversation-summary.md) - source summary from extracted Claude conversation notes on real estate syndicate diligence.
-- [Self-Storage Industry Benchmarks Since 2020 - 2026-06-04](../sources/self-storage-industry-benchmarks-since-2020-summary.md) - annual public self-storage REIT benchmark table from 2020 through 2026 YTD.
-- [Self-Storage Industry Benchmarks - 2026-06-04](../sources/self-storage-industry-benchmarks-2026-06-04-summary.md) - public REIT and industry metrics for benchmarking sponsor self-storage performance claims.
+- [10 Federal Track Record Workbook - 2025-11](../raw/10fed/10-federal-track-record-workbook-2025-11-summary.md) - source summary from sponsor-provided 10 Federal track-record workbook.
+- [10 Federal Storage Slide Screenshots - 2026-06-03](../raw/10fed/10-federal-storage-slide-screenshots-2026-06-03-summary.md) - source summary from the presentation screenshots shared on June 3, 2026.
+- [10FSSAC5 LLC Agreements - 2025](../raw/10fed/10fssac5-llc-agreements-2025-summary.md) - source summary from 10FSSAC5 LLC agreement PDFs.
+- [10FSSAC5 Pitchbook - 2026-05-27](../raw/10fed/10fssac5-pitchbook-2026-05-27-summary.md) - source summary from sponsor-provided 10FSSAC5 May 2026 pitchbook.
+- [10FSSAC5 PPM - 2025-03-13](../raw/10fed/10fssac5-ppm-2025-03-13-summary.md) - source summary from 10FSSAC5 private placement memorandum.
+- [10FSSAC5 Tax Structure Conversation - 2026-06-08](../raw/10fed/10fssac5-tax-structure-conversation-2026-06-08-summary.md) - LLM-assisted interpretation of K-1 reporting, REIT structure, depreciation, distributions, return targets, and C-corporation investor considerations; professional verification required.
+- [BAM Capital Real Estate Investment Opportunities](../raw/bamcapital.com/real-estate-investment-opportunities-summary.md) - incomplete sponsor webpage summary covering Fund V targets and a partial Preferred Credit Fund description.
+- [Crystal View Capital Public Website Capture - 2026-06-22](../raw/crystalviewcapital.com/website-public-pages-2026-06-22-summary.md) - sponsor website capture covering Fund IV marketing terms, track-record claims, strategy pages, article archive, legal disclaimers, and unresolved verification gaps.
+- [GSP REI Income Fund Public Webpage](../raw/gsprei.com/single-family-real-estate-income-fund--passive-monthly-cash-flow-summary.md) - sponsor webpage summary of fixed-return claims, terms, strategy, and missing structural evidence.
+- [PPR Capital Current Offerings](../raw/pprcapitalmgmt.com/current-offerings-summary.md) - sponsor webpage summary of Foundation Fund and Opportunity Fund II marketing claims, naming ambiguity, and missing legal documentation.
+- [PPR Capital Foundation Fund](../raw/pprcapitalmgmt.com/ppr-capital-foundation-fund-summary.md) - sponsor webpage summary of the foundation fund's diversified residential strategy, monthly distributions, and asset-class mix.
+- [PPR Capital Opportunity Fund II](../raw/pprcapitalmgmt.com/invest-in-the-opportunity-fund-summary.md) - sponsor webpage summary of the car-wash development strategy, return claims, and tax assertions.
+- [Private Market Platform Requirements Chat - 2026-06-07](../raw/private-market-platform-requirements-chat-2026-06-07-summary.md) - source summary of an LLM-assisted conversation on accredited-investor and onboarding requirements for Nasdaq Private Market, Forge, EquityZen, and Hiive.
+- [Real Estate Syndicate Diligence Claude Conversation](../raw/real-estate-syndicate-diligence-claude-conversation-summary.md) - source summary from extracted Claude conversation notes on real estate syndicate diligence.
+- [Self-Storage Industry Benchmarks Since 2020 - 2026-06-04](../raw/self-storage-industry-benchmarks-since-2020-summary.md) - annual public self-storage REIT benchmark table from 2020 through 2026 YTD.
+- [Self-Storage Industry Benchmarks - 2026-06-04](../raw/self-storage-industry-benchmarks-2026-06-04-summary.md) - public REIT and industry metrics for benchmarking sponsor self-storage performance claims.
 
 ## Diligence
 
@@ -68,7 +68,7 @@ For general real estate syndicate screening, start with [[Real Estate Syndicate 
 
 For the newly captured multifamily and single-family income opportunities, start with [[BAM Multifamily Growth & Income Fund V]] or [[GSP REI Income Fund]], then review the corresponding sponsor page and source summary.
 
-For PPR Capital work, start with [[PPR Capital Management]], then review [[PPR Capital Foundation Fund]], [[PPR Capital Opportunity Fund II]], and the linked source summaries.
+For PPR Capital work, start with [[PPR Capital Management]], then review [[PPR Capital Foundation Fund]], [[PPR Capital Opportunity Fund II]], and the linked raw summaries.
 
 For Crystal View Capital work, start with [[Crystal View Capital Fund IV]], then review [[Crystal View Capital]], [[Crystal View Capital Diligence Questions]], and the public website capture summary.
 
