@@ -1,6 +1,6 @@
 # Crystal View Capital Public Website Capture
 
-Source files: `raw/crystalviewcapital.com/`
+Source files: this folder
 
 Source URLs: https://www.crystalviewcapital.com/ investment-relevant public pages captured on 2026-06-22.
 

@@ -2,7 +2,7 @@
 
 Sponsor: [[Crystal View Capital]]
 
-Source status: sponsor public-marketing website captured in [Crystal View Capital Public Website Capture](../../raw/crystalviewcapital.com/website-public-pages-2026-06-22-summary.md). No PPM, operating agreement, subscription documents, Form D, audited financial statements, debt documents, property-level rent rolls, or independent track-record verification was reviewed.
+Source status: sponsor public-marketing website captured in [Crystal View Capital Public Website Capture](../raw/crystalviewcapital.com/website-public-pages-2026-06-22-summary.md). No PPM, operating agreement, subscription documents, Form D, audited financial statements, debt documents, property-level rent rolls, or independent track-record verification was reviewed.
 
 ## Offering Snapshot
 

@@ -1,6 +1,6 @@
 # BAM Capital
 
-Source status: sponsor public-marketing claims from [BAM Capital Real Estate Investment Opportunities](../../raw/bamcapital.com/real-estate-investment-opportunities-summary.md). No legal documents, financial statements, audit report, or independent track-record verification was reviewed.
+Source status: sponsor public-marketing claims from [BAM Capital Real Estate Investment Opportunities](../raw/bamcapital.com/real-estate-investment-opportunities-summary.md). No legal documents, financial statements, audit report, or independent track-record verification was reviewed.
 
 BAM Capital is presented as a multifamily real estate sponsor offering [[BAM Multifamily Growth & Income Fund V]] and an open-ended preferred-equity vehicle. Evaluate both using [[Real Estate Syndicate Diligence Criteria]].
 

@@ -1,6 +1,6 @@
 # 10 Federal Track Record Workbook - 2025-11
 
-Source file: `raw/10fed/10 Federal Track Record.xlsx`
+Source file: `10 Federal Track Record.xlsx`
 
 Workbook sheets: `Disclaimer`, `10 Federal- Track Record`, and `TE Use`.
 

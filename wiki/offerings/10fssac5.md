@@ -2,7 +2,7 @@
 
 Sponsor: [[10 Federal Storage]]
 
-Source status: sponsor-provided materials, including [10 Federal Storage Slide Screenshots - 2026-06-03](../../raw/10fed/10-federal-storage-slide-screenshots-2026-06-03-summary.md), [10FSSAC5 Pitchbook - 2026-05-27](../../raw/10fed/10fssac5-pitchbook-2026-05-27-summary.md), [10FSSAC5 PPM - 2025-03-13](../../raw/10fed/10fssac5-ppm-2025-03-13-summary.md), and [10FSSAC5 LLC Agreements - 2025](../../raw/10fed/10fssac5-llc-agreements-2025-summary.md). Tax interpretation is supplemented by the secondary, LLM-assisted [10FSSAC5 Tax Structure Conversation - 2026-06-08](../../raw/10fed/10fssac5-tax-structure-conversation-2026-06-08-summary.md) and requires professional verification.
+Source status: sponsor-provided materials, including [10 Federal Storage Slide Screenshots - 2026-06-03](../raw/10fed/10-federal-storage-slide-screenshots-2026-06-03-summary.md), [10FSSAC5 Pitchbook - 2026-05-27](../raw/10fed/10fssac5-pitchbook-2026-05-27-summary.md), [10FSSAC5 PPM - 2025-03-13](../raw/10fed/10fssac5-ppm-2025-03-13-summary.md), and [10FSSAC5 LLC Agreements - 2025](../raw/10fed/10fssac5-llc-agreements-2025-summary.md). The repository retains both the main LLC agreement and a retail-investor LLC agreement variant; the summaries agree on the core economics, but the governing version for a specific subscription should be confirmed against the signed documents. Tax interpretation is supplemented by the secondary, LLM-assisted [10FSSAC5 Tax Structure Conversation - 2026-06-08](../raw/10fed/10fssac5-tax-structure-conversation-2026-06-08-summary.md) and requires professional verification.
 
 ## Offering Summary
 

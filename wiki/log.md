@@ -123,3 +123,11 @@ Reviewed the retained Crystal View Capital public website captures listed by the
 ## [2026-06-22] maintenance | Rename sources directory to raw
 
 Renamed the repository evidence directory from `sources/` to `raw/`. Updated maintained wiki links, repository guidance, schema language, adjacent source summaries, and the source-change pre-commit hook to use `raw/` as the canonical immutable evidence location. Historical log entries above retain their original context.
+
+## [2026-06-22] maintenance | Move raw under wiki
+
+Moved the repository evidence directory from `raw/` to `wiki/raw/`. Updated repository guidance, catalog links, maintained page source references, and the pre-commit hook to use `wiki/raw/` as the canonical evidence location from the repository root.
+
+## [2026-06-22] update | 10 Federal source refresh
+- Updated [[10 Federal Storage]] to note that the 2025 track-record workbook spans multiple asset types and reports project-level IRRs on a best-efforts basis, not net investor-level returns.
+- Updated [[10FSSAC5]] to note that both the main LLC agreement and the retail-investor LLC agreement variant are present and the governing version should be confirmed against signed documents.

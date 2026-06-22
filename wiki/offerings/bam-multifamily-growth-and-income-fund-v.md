@@ -2,7 +2,7 @@
 
 Sponsor: [[BAM Capital]]
 
-Source status: incomplete sponsor public-marketing webpage summarized in [BAM Capital Real Estate Investment Opportunities](../../raw/bamcapital.com/real-estate-investment-opportunities-summary.md). Apply [[Real Estate Syndicate Diligence Criteria]]. No legal documents or independent verification was reviewed, and the capture metadata does not prove that the displayed offering or terms remained current on June 9, 2026.
+Source status: incomplete sponsor public-marketing webpage summarized in [BAM Capital Real Estate Investment Opportunities](../raw/bamcapital.com/real-estate-investment-opportunities-summary.md). Apply [[Real Estate Syndicate Diligence Criteria]]. No legal documents or independent verification was reviewed, and the capture metadata does not prove that the displayed offering or terms remained current on June 9, 2026.
 
 ## Offering Snapshot
 

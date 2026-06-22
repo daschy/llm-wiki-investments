@@ -6,7 +6,7 @@ Received: June 3, 2026.
 
 Repository handling: original screenshots were referenced from `/Users/1q82/Downloads/` and embedded in the chat. They were not copied into the repository because they may be confidential sponsor materials.
 
-Related source summary: `raw/10fed/10-federal-storage-slide-screenshots-2026-06-03-summary.md`
+Related source summary: `10-federal-storage-slide-screenshots-2026-06-03-summary.md`
 
 Referenced local files:
 

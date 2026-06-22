@@ -4,7 +4,7 @@ Offering: [[10FSSAC5]]
 
 Location: Waxahachie, TX.
 
-Source status: sponsor pitchbook claims from [10FSSAC5 Pitchbook - 2026-05-27](../../raw/10fed/10fssac5-pitchbook-2026-05-27-summary.md), consistent with earlier screenshot-derived notes in [10 Federal Storage Slide Screenshots - 2026-06-03](../../raw/10fed/10-federal-storage-slide-screenshots-2026-06-03-summary.md).
+Source status: sponsor pitchbook claims from [10FSSAC5 Pitchbook - 2026-05-27](../raw/10fed/10fssac5-pitchbook-2026-05-27-summary.md), consistent with earlier screenshot-derived notes in [10 Federal Storage Slide Screenshots - 2026-06-03](../raw/10fed/10-federal-storage-slide-screenshots-2026-06-03-summary.md).
 
 ## Investment Details
 

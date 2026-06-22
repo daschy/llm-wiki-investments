@@ -1,6 +1,6 @@
 # Private Market Platform Requirements Chat - 2026-06-07
 
-Source: `raw/private-market-platform-requirements-chat-2026-06-07.md`
+Source: `private-market-platform-requirements-chat-2026-06-07.md`
 
 Source type: LLM-assisted research conversation.
 

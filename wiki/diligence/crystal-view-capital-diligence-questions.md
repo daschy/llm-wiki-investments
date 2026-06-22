@@ -2,7 +2,7 @@
 
 Related pages: [[Crystal View Capital]], [[Crystal View Capital Fund IV]], [[Real Estate Syndicate Diligence Criteria]], [[Self-Storage Industry Benchmarks]]
 
-Source status: sponsor public-marketing website captured in [Crystal View Capital Public Website Capture](../../raw/crystalviewcapital.com/website-public-pages-2026-06-22-summary.md). No PPM, operating agreement, subscription documents, audited financial statements, lender records, property-level operating files, tax opinions, or independent track-record verification was reviewed.
+Source status: sponsor public-marketing website captured in [Crystal View Capital Public Website Capture](../raw/crystalviewcapital.com/website-public-pages-2026-06-22-summary.md). No PPM, operating agreement, subscription documents, audited financial statements, lender records, property-level operating files, tax opinions, or independent track-record verification was reviewed.
 
 ## Gating Documents
 

@@ -2,7 +2,7 @@
 
 Aliases: 10 Federal, 10 Federal Storage.
 
-Source status: mostly sponsor-provided claims from [10 Federal Storage Slide Screenshots - 2026-06-03](../../raw/10fed/10-federal-storage-slide-screenshots-2026-06-03-summary.md), [10FSSAC5 Pitchbook - 2026-05-27](../../raw/10fed/10fssac5-pitchbook-2026-05-27-summary.md), and [10 Federal Track Record Workbook - 2025-11](../../raw/10fed/10-federal-track-record-workbook-2025-11-summary.md), benchmarked against [[Self-Storage Industry Benchmarks]].
+Source status: mostly sponsor-provided claims from [10 Federal Storage Slide Screenshots - 2026-06-03](../raw/10fed/10-federal-storage-slide-screenshots-2026-06-03-summary.md), [10FSSAC5 Pitchbook - 2026-05-27](../raw/10fed/10fssac5-pitchbook-2026-05-27-summary.md), and [10 Federal Track Record Workbook - 2025-11](../raw/10fed/10-federal-track-record-workbook-2025-11-summary.md), benchmarked against [[Self-Storage Industry Benchmarks]].
 
 10 Federal Storage is presented as a self-storage sponsor/operator focused on acquiring and operating self-storage facilities, especially in fragmented mom-and-pop segments. Its stated value creation framework is [[Self-Storage Fragmentation Thesis]], [[Self-Storage Automation Strategy]], and aggregation.
 
@@ -32,6 +32,8 @@ Current offerings shown:
 | 10FSSAC3 | April 2022 | 15 | $45 million | 15%+ | 1.7x | 5 years | Approaching end of growth phase |
 | 10FSSAC4 | July 2024 | 25 | $115 million | 15%+ | 1.7x | 5 years | Deploying capital and in growth phase |
 | 10FOppCo1 | January 2025 | 5 | $35 million | 18%+ | 1.9x | 4-5 years | Launched in September 2024 |
+
+The separate [10 Federal Track Record Workbook - 2025-11](../raw/10fed/10-federal-track-record-workbook-2025-11-summary.md) is broader than the self-storage offering slate. It lists exited properties across multifamily, student multifamily, warehouse/land, and self-storage, and it describes the reported IRRs as project-level XIRRs calculated on a best-efforts basis. That workbook is useful corroboration of operating history, but it does not by itself establish net investor-level returns for 10FSSAC1, 10FSSAC2, or 10FSSAC5.
 
 ## Industry Benchmark Comparison
 

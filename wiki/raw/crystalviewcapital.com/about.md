@@ -161,7 +161,7 @@ Ben joined Crystal View Capital in June 2024 to lead capital formation strategie
 
   Brad
 
-![Back Arrow](https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg)![Next Arrow](https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg)
+![Back Arrow](https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg)![Next Arrow|40](https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg)
 
 - They started as a client of mine many years ago. I had done all their cost segregation work since then. I was so impressed with the operation that I became an investor. This is the first fund I have been in with them, but I've done all the work for the other funds. You must know that I work with a ton of firms who do this, my investment with Crystal View Capital says a lot. I chose them. They were at the top of my list. They do a great job externally as well as internally. You are in good hands with them.
 

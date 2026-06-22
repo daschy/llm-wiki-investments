@@ -2,7 +2,7 @@
 
 Sponsor of [[PPR Capital Foundation Fund]] and [[PPR Capital Opportunity Fund II]].
 
-Source status: sponsor public-marketing claims from [PPR Capital Current Offerings](../../raw/pprcapitalmgmt.com/current-offerings-summary.md), [PPR Capital Foundation Fund](../../raw/pprcapitalmgmt.com/ppr-capital-foundation-fund-summary.md), and [PPR Capital Opportunity Fund II](../../raw/pprcapitalmgmt.com/invest-in-the-opportunity-fund-summary.md). No legal documents, operating agreement, PPM, Form D, financial statements, or independent track-record verification was reviewed.
+Source status: sponsor public-marketing claims from [PPR Capital Current Offerings](../raw/pprcapitalmgmt.com/current-offerings-summary.md), [PPR Capital Foundation Fund](../raw/pprcapitalmgmt.com/ppr-capital-foundation-fund-summary.md), and [PPR Capital Opportunity Fund II](../raw/pprcapitalmgmt.com/invest-in-the-opportunity-fund-summary.md). No legal documents, operating agreement, PPM, Form D, financial statements, or independent track-record verification was reviewed.
 
 ## Offering Snapshot
 
