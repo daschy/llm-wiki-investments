@@ -131,3 +131,7 @@ Moved the repository evidence directory from `raw/` to `wiki/raw/`. Updated repo
 ## [2026-06-22] update | 10 Federal source refresh
 - Updated [[10 Federal Storage]] to note that the 2025 track-record workbook spans multiple asset types and reports project-level IRRs on a best-efforts basis, not net investor-level returns.
 - Updated [[10FSSAC5]] to note that both the main LLC agreement and the retail-investor LLC agreement variant are present and the governing version should be confirmed against signed documents.
+
+## [2026-06-22] maintenance | Repair orphaned maintained pages
+
+Ran a wiki integrity pass covering maintained-page index coverage, internal wikilinks, and diff hygiene. Confirmed 22 maintained content pages remain indexed with no broken wikilinks, then added backlinks to [[Private Market Platform Entity Onboarding]] from [[Real Estate Syndicate Diligence Criteria]] and to [[10 Federal Storage Diligence Memo - 2026-06-04]] from [[10 Federal Storage Diligence Questions]] and [[10FSSAC5]] so both orphaned maintained pages are reachable from the main research graph.

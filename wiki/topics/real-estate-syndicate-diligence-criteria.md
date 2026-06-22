@@ -7,7 +7,7 @@ Reliability: framework derived from unverified LLM-generated notes. Use as a che
 ## Investor Profile Captured
 
 - Accredited investor considering U.S. real estate syndicates.
-- Investment vehicle described as Duo Prato Capital, a U.S. LLC/C-Corp owned by two Dutch BVs.
+- Investment vehicle described as Duo Prato Capital, a U.S. LLC/C-Corp owned by two Dutch BVs; see [[Private Market Platform Entity Onboarding]] for the related private-company secondary onboarding and entity-eligibility framework.
 - Indicative allocation target was $160k over two years.
 - Preference was diversified funds over single-property deals, with enough early cash flow to cover entity expenses and most return expected from capital growth.
 

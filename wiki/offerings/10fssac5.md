@@ -124,4 +124,4 @@ Presentation summary:
 
 ## Diligence Hooks
 
-See [[10 Federal Storage Diligence Questions]].
+See [[10 Federal Storage Diligence Questions]] and [[10 Federal Storage Diligence Memo - 2026-06-04]].

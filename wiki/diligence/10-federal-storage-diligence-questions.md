@@ -4,6 +4,8 @@ Related pages: [[10 Federal Storage]], [[10FSSAC5]], [[Dry Dock and Lock Storage
 
 Source status: generated from sponsor materials and investment diligence judgment.
 
+For the current synthesis, scoring view, and investment threshold, see [[10 Federal Storage Diligence Memo - 2026-06-04]].
+
 ## Sponsor And Track Record
 
 - Verify historical 10FSSAC1 and 10FSSAC2 returns, including realized IRR methodology, fees, promote, leverage, and tax effects.
