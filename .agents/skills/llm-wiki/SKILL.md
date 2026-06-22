@@ -35,7 +35,7 @@ Use this skill when the user:
 
 ## Wiki Location
 
-**Location:** Set via `WIKI_PATH` environment variable (e.g. in `~/.hermes/.env`).
+**Location:** Set via `WIKI_PATH` environment variable (e.g. in `${HERMES_HOME:-~/.hermes}/.env`).
 
 If unset, defaults to `~/wiki`.
 
@@ -57,13 +57,13 @@ wiki/
 │   ├── articles/       # Web articles, clippings
 │   ├── papers/         # PDFs, arxiv papers
 │   ├── transcripts/    # Meeting notes, interviews
-│   |── assets/         # Images, diagrams referenced by sources
-|   |── <sponsors>/     # Sponsor-specific sources
+│   └── assets/         # Images, diagrams referenced by sources
 ├── entities/           # Layer 2: Entity pages (people, orgs, products, models)
 ├── concepts/           # Layer 2: Concept/topic pages
 ├── comparisons/        # Layer 2: Side-by-side analyses
 └── queries/            # Layer 2: Filed query results worth keeping
 ```
+
 **Layer 1 — Raw Sources:** Immutable. The agent reads but never modifies these.
 **Layer 2 — The Wiki:** Agent-owned markdown files. Created, updated, and
 cross-referenced by the agent.
@@ -78,7 +78,7 @@ When the user has an existing wiki, **always orient yourself before doing anythi
 ③ **Scan recent `log.md`** — read the last 20-30 entries to understand recent activity.
 
 ```bash
-WIKI="${WIKI_PATH:-$HOME/wiki}"
+WIKI="${WIKI_PATH:-./wiki}"
 # Orientation reads at session start
 read_file "$WIKI/SCHEMA.md"
 read_file "$WIKI/index.md"
@@ -126,7 +126,7 @@ Adapt to the user's domain. The schema constrains agent behavior and ensures con
 - **Provenance markers:** On pages that synthesize 3+ sources, append `^[raw/articles/source-file.md]`
   at the end of paragraphs whose claims come from a specific source. This lets a reader trace each
   claim back without re-reading the whole raw file. Optional on single-source pages where the
-  `raw:` frontmatter is enough.
+  `sources:` frontmatter is enough.
 
 ## Frontmatter
   ```yaml
@@ -136,7 +136,7 @@ Adapt to the user's domain. The schema constrains agent behavior and ensures con
   updated: YYYY-MM-DD
   type: entity | concept | comparison | query | summary
   tags: [from taxonomy below]
-  raw: [raw/articles/source-name.md]
+  sources: [raw/articles/source-name.md]
   # Optional quality signals:
   confidence: high | medium | low        # how well-supported the claims are
   contested: true                        # set when the page has unresolved contradictions
@@ -150,13 +150,13 @@ don't silently harden into accepted wiki fact.
 
 ### raw/ Frontmatter
 
-Raw files ALSO get a small frontmatter block so re-ingests can detect drift:
+Raw sources ALSO get a small frontmatter block so re-ingests can detect drift:
 
 ```yaml
 ---
 source_url: https://example.com/article   # original URL, if applicable
 ingested: YYYY-MM-DD
-sha256: <hex digest of the sources content below the frontmatter>
+sha256: <hex digest of the raw content below the frontmatter>
 ---
 ```
 
@@ -174,7 +174,7 @@ Example for AI/ML:
 - Meta: comparison, timeline, controversy, prediction
 
 Rule: every tag on a page must appear in this taxonomy. If a new tag is needed,
-add it here first, then use it. This prevents tag spsourcesl.
+add it here first, then use it. This prevents tag sprawl.
 
 ## Page Thresholds
 - **Create a page** when an entity/concept appears in 2+ sources OR is central to one source
@@ -350,7 +350,7 @@ wiki = "<WIKI_PATH>"
    for either finding corroboration or demoting to `confidence: medium`.
 
 ⑧ **Source drift:** For each file in `raw/` with a `sha256:` frontmatter, recompute
-   the hash and flag mismatches. Mismatches indicate the sources file was edited
+   the hash and flag mismatches. Mismatches indicate the raw file was edited
    (shouldn't happen — raw/ is immutable) or ingested from a URL that has since
    changed. Not a hard error, but worth reporting.
 
@@ -476,7 +476,7 @@ vault in Obsidian on your laptop/phone — changes appear within seconds.
 
 ## Pitfalls
 
-- **Never modify files in `raw/`** — raw files are immutable. Corrections go in wiki pages.
+- **Never modify files in `raw/`** — sources are immutable. Corrections go in wiki pages.
 - **Always orient first** — read SCHEMA + index + recent log before any operation in a new session.
   Skipping this causes duplicates and missed cross-references.
 - **Always update index.md and log.md** — skipping this makes the wiki degrade. These are the
